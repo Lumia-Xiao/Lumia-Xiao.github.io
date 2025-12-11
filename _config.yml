@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiao Ziheng"
+  name             : "Xiao Ziheng (肖子衡)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Energy Research Institute @ NTU (ERI@N), Nanyang Technological University (NTU), Singapore."
   employer         : "Nanyang Technological University"
   uri              : # URL
   email            : "ziheng.xiao@ntu.edu.sg"
@@ -43,7 +43,7 @@ author:
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Ziheng-Xiao-3?ev=hdr_xprf"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57205659683"
   zotero           : # URL
 
 
