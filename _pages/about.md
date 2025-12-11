@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- Hello, I’m Xiao Ziheng (肖子衡)!
+- I received the B.S. degree in electrical engineering and automation and Ph.D. degree (supervised by Professor An Luo, member of Chinese engineering academy) in electrical engineering from the College of Electrical and Information Engineering, Hunan University, Changsha, China, in 2017 and 2022, respectively. 
+- Since 2022, I have been a Research Fellow with the Energy Research Institute at Nanyang Technological University, Singapore. Since 2023, he has also served as a part-time lecturer in the School of Electrical and Electronic Engineering at the same university. His main research interests include the medium voltage dc system, dual active bridge converters, resonant converters, energy router in renewable energy systems, and the application of artificial intelligence in power electronics. 
+ 
+- I was a recipient of the Best Paper Award First Prize in ECCE Asia in 2024. He also served as the Session chair for the 49th Annual Conference of the IEEE Industrial Electronics Society.
 
 A data-driven personal website
 ======
