@@ -12,5 +12,4 @@ venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10813371'
 paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10813371'
 citation: 'Z. Yao et al., "Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 5109-5119, April 2025, doi: 10.1109/TPEL.2024.3521997.'
-excerpt: "<br/><img src='/publications/Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter.png'>"
 ---
