@@ -2,12 +2,12 @@
 title: "Inertia Emulation in Droop-Based DC Microgrids With Equivalent Converter Impedance Reshaping"
 collection: publications
 category: manuscripts
-permalink: /publication/Swift and Seamless Start-Up of DAB Converters in Constant and Variable Frequency Modes
+permalink: /publication/Inertia Emulation in Droop-Based DC Microgrids With Equivalent Converter Impedance Reshaping
 excerpt: 'This article presents a swift and seamless start-up method for dual active bridge (DAB) converters, adhering to a predefined current limit. It explores all operation stage trajectories to identify the optimal switching sequence in both constant frequency (CF) and variable frequency (VF) modes. The method seamlessly integrates sophisticated modulation schemes, avoiding dc bias during start-up and transition phases, and achieves zero voltage switching (ZVS) across all power switches. The effectiveness of the proposed CF and VF modes have been validated through experiments on a 1.2-kW DAB prototype. Compared with conventional methods, this approach accelerates start-up speed by 60% to 80%, significantly enhancing performance.
 <br/><br/>
-<img src="/images/Swift and Seamless Start-Up of DAB Converters in Constant and Variable Frequency Modes.png" 
+<img src="/images/Inertia Emulation in Droop-Based DC Microgrids With Equivalent Converter Impedance Reshaping.png" 
      style="width: 100%; max-width: 1000px;">'
-date: 2024-10-30
+date: 2024-08-02
 venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10621669'
 paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10621669'
