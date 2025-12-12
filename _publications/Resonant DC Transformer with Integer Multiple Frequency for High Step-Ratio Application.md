@@ -9,5 +9,5 @@ venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11223681'
 paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11223681'
 citation: 'Z. Xiao, Z. He, L. Zhang, Z. Yao and Y. Tang, "Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application," in IEEE Transactions on Transportation Electrification, doi: 10.1109/TTE.2025.3627551.'
-excerpt: "<br/><img src='/publications/Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application.tif'>"
+excerpt: "<br/><img src='/images/Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application.png'>"
 ---
