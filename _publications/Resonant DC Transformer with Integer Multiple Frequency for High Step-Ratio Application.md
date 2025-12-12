@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
+permalink: /publication/Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application
+excerpt: 'In medium- and high-voltage (MV/HV) DC systems, switching losses in HV power switches constrain system switching frequency and increase system volume. This paper proposes an integer multiple frequency resonant (IMFR) DC transformer topology, where the low-voltage (LV) side operates at a switching frequency that is an integer multiple of the HV side. This configuration reduces HV-side switching losses while enabling high-frequency operation on the LV side, leading to reduced passive component volume. A 10 kW bidirectional prototype is developed for quantitative analysis and design guidance. Compared to conventional identical-frequency solutions, the proposed topology achieves higher efficiency and power density. Experimental results confirm its bidirectional operation, high efficiency, compactness, and robust performance under dynamic load conditions.'
+date: 2025-11-03
 venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11223681'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11223681'
+citation: 'Z. Xiao, Z. He, L. Zhang, Z. Yao and Y. Tang, "Resonant DC Transformer with Integer Multiple Frequency for High Step-Ratio Application," in IEEE Transactions on Transportation Electrification, doi: 10.1109/TTE.2025.3627551.'
 ---

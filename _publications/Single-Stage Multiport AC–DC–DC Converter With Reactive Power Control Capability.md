@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Single-Stage Multiport AC–DC–DC Converter With Reactive Power Control Capability"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
+permalink: /publication/Single-Stage Multiport AC–DC–DC Converter With Reactive Power Control Capability
+excerpt: 'This article introduces a single-stage three-port ac–dc–dc converter designed to overcome the limitations observed in conventional two-stage converters used in grid-tied applications with multiple dc sources, such as hybrid energy storage systems and microgrids. Traditional two-stage converters, typically comprising a dc–dc converter followed by a dc–ac inverter, are hindered by the multiple power conversion stages, an excess of components, and an insufficient number of dc ports. To address these issues, a single-stage three-port ac–dc–dc converter is proposed in this article. This converter serves as an interface among two dc ports and one ac port. The employed asymmetric PWM combined with dual-phase-shift modulation allows for the decoupling of reactive power control, bidirectional power transfer, and voltage gain regulation. Optimization efforts have been made to minimize the root mean square value of the leakage inductor current. Validation was achieved through experiments on a 1-kW prototype.'
+date: 2025-01-21
 venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10848340'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10848340'
+citation: 'T. Sun, Z. Xiao, F. Deng, Z. He, X. Pan and Y. Tang, "Single-Stage Multiport AC–DC–DC Converter With Reactive Power Control Capability," in IEEE Transactions on Power Electronics, vol. 40, no. 5, pp. 6700-6713, May 2025, doi: 10.1109/TPEL.2025.3532439.'
 ---

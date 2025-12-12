@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Generalized Trapezoidal Current Mode-Based Zero-Voltage Switching for Multilevel DC–DC Converters"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
+permalink: /publication/Generalized Trapezoidal Current Mode-Based Zero-Voltage Switching for Multilevel DC–DC Converters
+excerpt: 'Achieving zero-voltage switching (ZVS) in multilevel dc–dc converters is challenging, especially without relying on triangular current mode (TCM). However, TCM becomes ineffective in operating zones with near-zero inductor current ripples and suffers from high peak current. To address these issues, this article presents an innovative generalized method inspired by the trapezoidal current mode (TZCM) of three-level converters to achieve ZVS in any multilevel dc–dc converter. A generalized TZCM modulation using an n-x-0 voltage-level sequence is proposed, while the system of equations governing the trapezoidal current waveform is derived. A five-level dc–dc converter is used as an example to illustrate the trapezoidal current modulation, ZVS process, and duty cycle alternation sequence. The proposed method enables ZVS in all multilevel topologies while reducing peak current compared to traditional TCM. Experimental results from a five-level dc–dc converter prototype validate the effectiveness of the generalized TZCM-based ZVS method, which achieves an efficiency of 98.56% at 1 kW, significantly surpassing the 94.89% efficiency of hard-switching.'
+date: 2025-03-14
 venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10925864'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10925864'
+citation: 'Z. Yao et al., "Generalized Trapezoidal Current Mode-Based Zero-Voltage Switching for Multilevel DC–DC Converters," in IEEE Transactions on Power Electronics, vol. 40, no. 7, pp. 8956-8961, July 2025, doi: 10.1109/TPEL.2025.3551341.'
 ---

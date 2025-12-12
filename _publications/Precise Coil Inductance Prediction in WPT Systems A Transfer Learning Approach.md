@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Precise Coil Inductance Prediction in WPT Systems A Transfer Learning Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
-venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+permalink: /publication/Precise Coil Inductance Prediction in WPT Systems A Transfer Learning Approach
+excerpt: 'Precise and efficient coil inductance calculations in wireless power transfer (WPT) systems are crucial for accelerating the coil design process and optimizing system performances. However, commonly used finite element simulations are quite time-consuming, while traditional analytical inductance models not only suffer from complex computations and low accuracies but also require intricate mathematical models for describing various coil structures. To address these issues, a unified coil structure model is proposed in this article for the first time to capture the inherent structural consistency between the widely used circular and rectangular coils, eliminating the heavy burden of developing unique structure models for different coils. Based on this unified coil structure model, a transfer learning-improved feedforward neural network (FNN) is developed to precisely and efficiently predict the self-inductance and mutual inductance of both circular and rectangular coils under varied misalignments in WPT systems. The transfer learning-improved FNN allows for efficient model transfer without requiring extensive data acquisition and lengthy model retraining while maintaining high prediction accuracy for different coils under varied misalignments. Finally, the accuracy and generalization of the proposed transfer learning-improved FNN are validated experimentally, indicating a significant peak mean accuracy increment of 85.52% compared to the previous analytical inductance model.'
+date: 2024-12-30
+venue: 'IEEE Transactions on Transportation Electrification'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10818535'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10818535'
+citation: 'Y. Wu et al., "Precise Coil Inductance Prediction in WPT Systems: A Transfer Learning Approach," in IEEE Transactions on Transportation Electrification, vol. 11, no. 2, pp. 7083-7095, April 2025, doi: 10.1109/TTE.2024.3524106.'
 ---

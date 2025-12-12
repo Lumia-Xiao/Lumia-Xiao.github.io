@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Physics-Informed Deep Transfer Reinforcement Learning Method for the Input-Series Output-Parallel Dual Active Bridge-Based Auxiliary Power Modules in Electrical Aircraft"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
-venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+permalink: /publication/Physics-Informed Deep Transfer Reinforcement Learning Method for the Input-Series Output-Parallel Dual Active Bridge-Based Auxiliary Power Modules in Electrical Aircraft
+excerpt: 'This article proposes a physics-informed deep transfer reinforcement learning (PIDTRL) approach for power balance control and triple phase shift (TPS) modulation method for the input-series output-parallel dual active bridge (ISOP-DAB) converter-based auxiliary power module (APM) in electric aircraft. The approach involves three stages: 1) centralized training of deep reinforcement learning agents to balance power and reduce current stress in the ISOP-DAB converter; 2) effective knowledge transfer from a source simulation system to a target experimental system using minimal experimental data, providing a scalable solution without extensive data reliance; and 3) deployment of multiple agents for online control in the ISOP-DAB converter. The proposed method adaptively determines optimal modulation variables (duty cycles and phase shifts) in stochastic and uncertain environments without requiring accurate model information. The experimental results validate the effectiveness of the proposed PIDTRL algorithm.'
+date: 2024-12-11
+venue: 'IEEE Transactions on Transportation Electrification'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10789227'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10789227'
+citation: 'Y. Zeng et al., "Physics-Informed Deep Transfer Reinforcement Learning Method for the Input-Series Output-Parallel Dual Active Bridge-Based Auxiliary Power Modules in Electrical Aircraft," in IEEE Transactions on Transportation Electrification, vol. 11, no. 2, pp. 6629-6639, April 2025, doi: 10.1109/TTE.2024.3514657.'
 ---

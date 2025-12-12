@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding"
+title: "Light Load Efficiency Improvement of DAB Converters With Optimal Switching Sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/Optimizing Multi-phase DC-DC Converters via Inter-leavingIntra-leaving and Phase Shedding
-excerpt: 'Minimizing and balancing power loss across the full operating range is crucial for multi-phase DC-DC converters. Techniques like inter-leaving, intra-leaving, and phase shedding are widely used for this purpose. Inter-leaving balances power loss and reduces cur-rent ripple, making it suitable for high-power applications. Intra-leaving adjusts time delays between bridge legs to enable zero-voltage switching (ZVS), optimizing efficiency under partial loads where switching loss is dominant. Phase shedding deactivates phases under light loads to reduce switching losses. This paper investigates power loss minimization in a four-phase bidirectional buck-boost converter, utilizing an optimal combination of these techniques based on precise power loss calculations. The converter operates in five modes: (1) inter-leaving + continuous conduction mode (CCM), (2) inter-leaving + intra-leaving, (3) two-phase rotational shedding + CCM, (4) two-phase rotational shedding + intra-leaving, and (5) four-phase rotational shedding. Smooth transitions within and between these modes are achieved. Experimental results confirm that the converter automatically adjusts modes to optimize performance, with measured losses aligning closely with theoretical predictions.'
-date: 2025-11-15
+permalink: /publication/Light Load Efficiency Improvement of DAB Converters With Optimal Switching Sequences
+excerpt: 'This article introduces a method to enhance the light load efficiency of dual active bridge converters through power loss minimization via optimal switching sequences. Peak efficiency points for various operational conditions are identified using a comprehensive power loss calculation approach. Single phase shift modulation and trapezoidal current modulation modes are utilized, and an iterative algorithm determines the optimal switching sequence for the first, repeating, and final switching pulses under a given peak inductor current in various operating condition. The comprehensive state machine diagram of the proposed control method demonstrates seamless integration of both continuous and burst modes for efficiency improvement. Experimental waveforms, efficiency curves, and power loss breakdown diagrams from a 1 kW prototype demonstrate that the proposed method significantly outperforms continuous operation mode, as well as conventional and advanced burst modes, increasing light load efficiency from below 60% to above 85%.'
+date: 2024-12-09
 venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/11241083'
-citation: 'Z. Xiao, T. Sun, Z. Yao and Y. Tang, "Optimizing Multi-phase DC-DC Converters via Inter-leaving/Intra-leaving and Phase Shedding," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3631793.'
+slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10787114'
+paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10787114'
+citation: 'Z. Xiao, M. Xiao, Z. He, L. Wang, Z. Li and H. Wang, "Light Load Efficiency Improvement of DAB Converters With Optimal Switching Sequences," in IEEE Transactions on Power Electronics, vol. 40, no. 7, pp. 9343-9356, July 2025, doi: 10.1109/TPEL.2024.3513412.'
 ---
