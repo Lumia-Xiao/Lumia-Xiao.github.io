@@ -27,16 +27,17 @@ Work experience
   
 Project and Research Experience:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021-2025：Advanced Energy Management and Data Fusion for Smart Homes and Smart Grids (NTU-LiteON Collaboration Programme), Singapore
+* 2022-2024：Major Special Projects of Hunan Province (2020GK1010), China
+* 2019-2021：Natural Science Foundation of China under Grant (51807057), China
+* 2019-2021：Hunan Province Youth Fund Project (2019JJ50038), China
+* 2018-2023：Project of Megmeet (University-Industry Collaboration Programme), China
+* 2018-2020：Hunan Science and Technology Innovation Plan Project (2017XK2104), China
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+  {% if post.collection == "publications" and post.category == "manuscripts" %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
