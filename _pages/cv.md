@@ -36,18 +36,15 @@ Project and Research Experience
 
 Awards & Honors
 ======
-| Year | Achievement                                                                                                            |
-|------|------------------------------------------------------------------------------------------------------------------------|
-| 2025 | Special Issue Guest Editor for Energies Journal "Control and Optimization of Power Converters"                         |
-| 2025 | Technical Program Committee for 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP)   |
-| 2025 | Special Session Organizer for the 15th IEEE International Conference on Power Electronics and Drive Systems            |
-| 2025 | Special Session Panelists for the International Decentralized Energy Access Solutions Conference                       |
-| 2024 | Poster Session Chair of 2024 2nd Power Electronics and Power System Conference                                         |
-| 2024 | 🏆 Best paper award (First prize) in 2024 IPEMC Conference 3/927                                                       |
-| 2023 | Session chair for the 49th Annual Conference of the IEEE Industrial Electronics Society                                |
-| 2022 | 🏆 Outstanding Papers of 2021 in "Journal of Power Supply" 3/334                                                       |
-| 2020 | 🏆 Presidential Scholarship for Doctoral Student of Hunan University 5/279                                             |
-
+* 2025：Special Issue Guest Editor for Energies Journal "Control and Optimization of Power Converters"    
+* 2025：Technical Program Committee for 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP)
+* 2025：Special Session Organizer for the 15th IEEE International Conference on Power Electronics and Drive Systems
+* 2025：Special Session Panelists for the International Decentralized Energy Access Solutions Conference
+* 2024：Poster Session Chair of 2024 2nd Power Electronics and Power System Conference
+* 2024：🏆 Best paper award (First prize) in 2024 IPEMC Conference 3/927   
+* 2023：Session chair for the 49th Annual Conference of the IEEE Industrial Electronics Society
+* 2022：🏆 Outstanding Papers of 2021 in "Journal of Power Supply" 3/334  
+* 2020：🏆 Presidential Scholarship for Doctoral Student of Hunan University 5/279
 
 Publications
 ======
