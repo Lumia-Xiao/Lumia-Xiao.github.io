@@ -7,9 +7,9 @@ venue: "NTU, EEE"
 date: 2025-07-10
 location: "Singapore"
 ---
-This course, co-taught by Dr. Xiao Ziheng and Prof. Yang Yun, provides a comprehensive introduction to power electronics, covering semiconductor devices, power converter circuits, and their applications in renewable energy systems. It progresses from fundamental topics such as diodes, thyristors, and basic DC–DC converters to advanced power converters, inverters, and system-level design considerations. Emphasis is placed on device selection, protection against thermal stress and excessive di/dt and dv/dt, as well as the role of passive components and magnetics. Through structured lectures, two quizzes, and integrated revision, the course equips students with both theoretical understanding and practical insight into modern power electronic systems for energy and power applications. 
+This course, co-taught by Prof. Tang Yi and Dr. Xiao Ziheng, provides a comprehensive, simulation-driven introduction to clean energy power electronic systems using PLECS simulation software. It progresses from fundamental modeling of solar cells and basic DC-DC converters to advanced simulation of three-phase inverters and complete renewable energy systems. Each lecture integrates theoretical concepts with hands-on simulation exercises, emphasizing practical modeling techniques, parameter selection, and performance validation through simulation. Students will develop expertise in using PLECS for maximum power point tracking implementation, converter control loop design, frequency domain analysis via Bode plots, grid synchronization algorithms, and system-level integration of PV-wind-storage hybrid systems. Through this simulation-focused approach, the course equips students with practical skills to design, analyze, and optimize power electronic systems for modern clean energy applications.
 
-Education
+Syllabus
 ======
 * Lecture 1 (Prof. Tang Yi): Introduction to Clean Energy Systems and PLECS  
 * Lecture 2 (Prof. Tang Yi): Solar Cell Model  
