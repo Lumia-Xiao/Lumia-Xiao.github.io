@@ -37,7 +37,6 @@ Project and Research Experience:
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-  {% if post.collection == "publications" and post.category == "manuscripts" %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
