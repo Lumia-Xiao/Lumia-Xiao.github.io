@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 4"
+title: "A Convenient Harmonic State Space Model for ZVS Analysis in Wireless Power Transfer Systems"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'To improve the power transfer efficiency and reduce EMI issues of wireless power transfer systems (WPTSs), the variable frequency and phase shift control (VFPSC) strategy is widely used for its convenience and simplicity. However, the output current spectrum of the inverter under such control strategy exhibits strong nonlinear characteristics, where high-order harmonics impose severe significant impacts on system modeling and control precision. To accurately evaluate this current and achieve ZVS, traditional methods adopt a piecewise time domain model with higher-order harmonics. However, it often assumes good filter property under resonant frequency and the derivation process is burdensome for higher order topologies. In this paper, a harmonic state space (HSS) model is proposed to evaluate the inverter's output current under varying frequency conditions, which addresses full considerations to high-order harmonics and equivalent series resistance (ESR) effects. The proposed model can be further expanded to not only higher harmonic orders but also different circuit topologies conveniently. An LCC/S compensated experimental platform is built to validate the effectiveness of high-order steady state solution and the prediction of ZVS boundary is validated with a minimum error of 0.97% at 9.25A.'
+date: 2025-10-19
+venue: '2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE)'
+citation: 'D. Zhao, Y. Wu, Y. Li, R. Zhang, Z. Xiao and Y. Tang, "A Convenient Harmonic State Space Model for ZVS Analysis in Wireless Power Transfer Systems," 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), Philadelphia, PA, USA, 2025, pp. 1-6, doi: 10.1109/ECCE58356.2025.11259601.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
