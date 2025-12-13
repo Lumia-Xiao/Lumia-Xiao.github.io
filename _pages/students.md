@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /students/
+title: "Students"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /students.html
 ---
 
 {% include toc %}
