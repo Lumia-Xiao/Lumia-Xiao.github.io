@@ -7,7 +7,7 @@ excerpt: 'In high-voltage (HV) input to low-voltage (LV) output dc/dc conversion
 <br/><br/>
 <img src="/images/Analysis and Design of a Modular Self-Balance High-Voltage Input DC–DC Topology.png" 
      style="width: 100%; max-width: 1000px;">'
-date: 2024-10-30
+date: 2022-01-06
 venue: 'IEEE Journal of Emerging and Selected Topics in Power Electronics'
 slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/9672144'
 paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/9672144'

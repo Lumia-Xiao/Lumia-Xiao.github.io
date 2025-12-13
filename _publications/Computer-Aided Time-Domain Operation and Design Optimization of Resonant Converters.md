@@ -7,7 +7,7 @@ excerpt: 'This article presents a method for computer-aided operation and design
 <br/><br/>
 <img src="/images/Computer-Aided Time-Domain Operation and Design Optimization of Resonant Converters.png" 
      style="width: 100%; max-width: 1000px;">'
-date: 2024-05-12
+date: 2023-05-12
 venue: 'IEEE Journal of Emerging and Selected Topics in Power Electronics'
 slidesurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10123923'
 paperurl: 'https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10123923'
