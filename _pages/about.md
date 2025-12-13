@@ -9,7 +9,7 @@ redirect_from:
 
 - Hello, I’m Xiao Ziheng (肖子衡)!
 - I received the B.S. degree in electrical engineering and automation and Ph.D. degree (supervised by Professor [An Luo 罗安](https://eeit.hnu.edu.cn/info/1322/4500.htm) , member of Chinese engineering academy) in electrical engineering from the College of Electrical and Information Engineering, Hunan University, Changsha, China, in 2017 and 2022, respectively. 
-- Since 2022, I have been a Research Fellow (supervised by Professor [Tang Yi](https://ntu-leap.github.io/)) with the Energy Research Institute at Nanyang Technological University, Singapore. Since 2023, I have also served as a part-time lecturer in the School of Electrical and Electronic Engineering at the same university. 
+- Since 2022, I have been a Research Fellow (supervised by Professor [Tang Yi](https://ntu-leap.github.io/),Associate Chair (Graduate Studies)Director of Laboratory for Electrification & Advanced Power Conversion) with the Energy Research Institute at Nanyang Technological University, Singapore. Since 2023, I have also served as a part-time lecturer in the School of Electrical and Electronic Engineering at the same university. 
 - My main research interests include the medium voltage dc system, dual active bridge converters, resonant converters, energy router in renewable energy systems, and the application of artificial intelligence in power electronics. 
  
 | Year | Achievement                                                                                                            |
