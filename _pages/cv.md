@@ -14,7 +14,7 @@ Education
 * Ph.D in Electrical Engineering, Hunan University, 2022
 * B.S. in Electrical Engineering and Automation, Hunan University, 2017
 
-Work experience
+Work Experience
 ======
 * 2023-Present: Part-time Lecturer of EEE, NTU 
   * EE6506 Semiconductor Based Converter in Renewable Energy Systems
@@ -23,7 +23,6 @@ Work experience
 
 * 2022-Present: Research Fellow (supervised by Associate Professor Yi Tang, Cluster Director of ERI@N, Deputy Director of EEE, NTU)
   * Advanced Energy Management and Data Fusion for Smart Homes and Smart Grids (NTU-LiteON Collaboration Programme), Singapore
-
   
 Project and Research Experience
 ======
@@ -34,7 +33,7 @@ Project and Research Experience
 * 2018-2023：Project of Megmeet (University-Industry Collaboration Programme), China
 * 2018-2020：Hunan Science and Technology Innovation Plan Project (2017XK2104), China
 
-Awards & Honors
+Awards and Honors
 ======
 * 2025：Special Issue Guest Editor for Energies Journal "Control and Optimization of Power Converters"    
 * 2025：Technical Program Committee for 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP)
