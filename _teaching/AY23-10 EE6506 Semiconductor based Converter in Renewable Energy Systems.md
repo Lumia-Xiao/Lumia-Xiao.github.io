@@ -1,10 +1,10 @@
 ---
-title: "EE6506 Semiconductor based Converter in Renewable Energy Systems"
+title: "AY23-10 EE6506 Semiconductor based Converter in Renewable Energy Systems"
 collection: teaching
 type: "Postgraduate Course"
-permalink: /teaching/AY25 EE6506 Semiconductor based Converter in Renewable Energy Systems
+permalink: /teaching/AY23-10 EE6506 Semiconductor based Converter in Renewable Energy Systems
 venue: "NTU, EEE"
-date: 2025-08-14
+date: 2023-10-12
 location: "Singapore"
 ---
 This course, co-taught by Dr. Xiao Ziheng and Prof. Yang Yun, provides a comprehensive introduction to power electronics, covering semiconductor devices, power converter circuits, and their applications in renewable energy systems. It progresses from fundamental topics such as diodes, thyristors, and basic DC–DC converters to advanced power converters, inverters, and system-level design considerations. Emphasis is placed on device selection, protection against thermal stress and excessive di/dt and dv/dt, as well as the role of passive components and magnetics. Through structured lectures, two quizzes, and integrated revision, the course equips students with both theoretical understanding and practical insight into modern power electronic systems for energy and power applications. 

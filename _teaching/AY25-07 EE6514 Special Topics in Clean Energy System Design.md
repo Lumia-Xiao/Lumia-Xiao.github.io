@@ -1,8 +1,8 @@
 ---
-title: "EE6514 Special Topics in Clean Energy System Design"
+title: "AY25-07 EE6514 Special Topics in Clean Energy System Design"
 collection: teaching
 type: "Postgraduate Course"
-permalink: /teaching/AY25 EE6514 Special Topics in Clean Energy System Design
+permalink: /teaching/AY25-07 EE6514 Special Topics in Clean Energy System Design
 venue: "NTU, EEE"
 date: 2025-07-10
 location: "Singapore"

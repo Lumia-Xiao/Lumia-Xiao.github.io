@@ -1,8 +1,8 @@
 ---
-title: "EE6501 Power Electronic Converters"
+title: "AY25-08 EE6501 Power Electronic Converters"
 collection: teaching
 type: "Postgraduate Course"
-permalink: /teaching/AY25 EE6501 Power Electronic Converters
+permalink: /teaching/AY25-08 EE6501 Power Electronic Converters
 venue: "NTU, EEE"
 date: 2025-08-14
 location: "Singapore"
