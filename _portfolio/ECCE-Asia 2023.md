@@ -11,7 +11,7 @@ excerpt: "<h3>Photos</h3>
             </div>
             <div>
               <img src='/images/20231016_02.jpg' style='width: 100%; height: 250px; object-fit: cover; border-radius: 8px;'>
-              <p style='text-align: center; font-size: 0.9em; margin-top: 8px;'>Photo with Universidad San Sebastian Prof. Jose Rodriguez01</p>
+              <p style='text-align: center; font-size: 0.9em; margin-top: 8px;'>Photo with Universidad San Sebastian Prof. Jose Rodriguez02</p>
             </div>
             <div>
               <img src='/images/20231016_03.jpg' style='width: 100%; height: 250px; object-fit: cover; border-radius: 8px;'>
