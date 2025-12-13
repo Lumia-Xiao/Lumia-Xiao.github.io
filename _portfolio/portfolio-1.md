@@ -1,5 +1,8 @@
 ---
+layout: portfolio
 title: "PEAC2018@ShenZhen,China"
+date: 2018-11-04
+collection: portfolio  
 excerpt: "<h3>Conference Photos</h3>
          <div style='display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 900px; margin: 20px auto;'>
             <div>
@@ -19,6 +22,4 @@ excerpt: "<h3>Conference Photos</h3>
               <p style='text-align: center; font-size: 0.9em; margin-top: 8px;'>Networking Session</p>
             </div>
          </div>"
-date: 2018-11-04
-collection: portfolio
 ---
