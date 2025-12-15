@@ -1,0 +1,13 @@
+---
+layout: archive
+permalink: /resources/
+title: "Resources"
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sorted_resources = site.resources | sort: 'date' | reverse %}
+{% for post in sorted_resources %}
+  {% include archive-single.html %}
+{% endfor %}
