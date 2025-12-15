@@ -1,7 +1,6 @@
 ---
 title: "Prof. C. K. Michael Power Converter Slides Series"
 collection: resources
-type: "Postgraduate Course"
 permalink: /resources/C. K. Michael Design
 date: 2011-01-12
 location: "Hong Kong Polytechnic University"
@@ -11,4 +10,3 @@ This slide series, authored by C.K. Michael, presents a structured guide to the 
 [Part II](/resources/MEAD-Tse-2.pdf) delves into specific circuit topologies and models, covering the fundamental architectures used in SMPS.
 [Part III](/resources/MEAD-Tse-3.pdf) focuses on the analysis and control methods essential for stabilizing and regulating SMPS performance.
 [Part IV](/resources/MEAD-Tse-4.pdf) presents a key application: Power Factor Correction (PFC), addressing efficiency and compliance with power quality standards.
-
