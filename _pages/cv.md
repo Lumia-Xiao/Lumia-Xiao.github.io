@@ -24,7 +24,7 @@ Work Experience
 * 2022-Present: Research Fellow (supervised by Associate Professor Yi Tang, Cluster Director of ERI@N, Associate Chair (Graduate Studies), EEE, NTU)
   
 Project and Research Experience
-======
+
 | Year      | Projects                                                                  | Direct costs |
 |-----------|--------------------------------------------------------------------------|------|
 | 2026–2030 | Efficiency Improvement Advanced Flow-based Energy Storage Innovations for Scalability & Systemic Industry Collaboration Projects (IAF-ICP), Singapore | S$ 16.5 M |
@@ -37,7 +37,7 @@ Project and Research Experience
 | 2018–2020 | Hunan Science and Technology Innovation Plan Project (2017XK2104), China | ¥ 5 M |
 
 Awards and Honors
-======
+
 | Year | Achievement                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------------------|
 | 2025 | Special Issue Guest Editor for Electronics Journal "Power Converters and Multilevel Converters"                        |
