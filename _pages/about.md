@@ -14,8 +14,8 @@ redirect_from:
  
 | Year | Achievement                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------------------|
-| 2025 | Special Issue Guest Editor for Electronics Journal "Power Converters and Multilevel Converters"                        |
-| 2025 | Special Issue Guest Editor for Energies Journal "Control and Optimization of Power Converters"                         |
+| 2025 | Special Issue Guest Editor for *Electronics* Journal "Power Converters and Multilevel Converters"                        |
+| 2025 | Special Issue Guest Editor for *Energies* Journal "Control and Optimization of Power Converters"                         |
 | 2025 | Technical Program Committee for 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP)   |
 | 2025 | Special Session Organizer for the 15th IEEE International Conference on Power Electronics and Drive Systems            |
 | 2025 | Special Session Panelists for the International Decentralized Energy Access Solutions Conference                       |

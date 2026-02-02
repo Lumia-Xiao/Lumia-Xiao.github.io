@@ -29,8 +29,10 @@ Project and Research Experience
 * 2024-2027: Advancing Electrified Transportation and Intelligent Systems through Physics-Informed Machine Learning in Wireless Power Transfer (R24I6IR134), Agency for Science, Technology and Research (A*STAR), Singapore, S$ 350 k
 * 2024-2027: Optimizing Wireless Power Transfer Efficiency Through Transfer Learning-Based Precise Power Loss Modelling (RG73/24), Ministry of Education (MOE), Singapore, S$ 160 k
 * 2021-2025：Advanced Energy Management and Data Fusion for Smart Homes and Smart Grids, Lite-On Singapore Pte. Ltd., Singapore, S$ 5 M 
-* 2019-2021：Natural Science Foundation of China under Grant (51807057), China, ¥ 240 k * 2019-2021：Hunan Province Youth Fund Project (2019JJ50038), China, ¥ 50 k 
-* 2018-2023：Project of Megmeet (University-Industry Collaboration Programme), China, ¥ 1.2 M * 2018-2020：Hunan Science and Technology Innovation Plan Project (2017XK2104), China, ¥ 5 M
+* 2019-2021：Natural Science Foundation of China under Grant (51807057), China, ¥ 240 k 
+* 2019-2021：Hunan Province Youth Fund Project (2019JJ50038), China, ¥ 50 k 
+* 2018-2023：Project of Megmeet (University-Industry Collaboration Programme), China, ¥ 1.2 M 
+* 2018-2020：Hunan Science and Technology Innovation Plan Project (2017XK2104), China, ¥ 5 M
 
 Awards and Honors
 ======
