@@ -10,6 +10,13 @@ redirect_from:
 
 | No. | Name | Class | Thesis Project Title                                                                                                                                                       |
 |-----|------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| 30  | PAN TIANQI | M.Sc.(Power Eng.) Batch 2025 | M.SC.<br>Ultra-Compact and High-Efficiency DC–DC Converters for Next-Generation Power Electronics
+                                            |
+
+| 29  | XU WEIZHONG | EEE Batch 2025 | FYP<br>Gate Driver Design for Next-Generation Wideband Gap Power Devices
+                                           |
+
 | 28  | MOU XINGYAN | M.Sc.(Power Eng.) Batch 2025 | M.Sc.<br>High-Efficiency High-Frequency Power Converter Design for Next-Generation AI Processors                                                                           |
 | 27  | DUAN YILIN | M.Sc.(Power Eng.) Batch 2024 | EE6008 Collaborative Research and Development Project AY25S1-6-PE<br>High-Efficiency Power Converter Using Wide Bandgap Devices                                            |
 | 26  | MA QINGHAN | M.Sc.(Power Eng.) Batch 2024 | EE6008 Collaborative Research and Development Project AY25S1-6-PE<br>High-Efficiency Power Converter Using Wide Bandgap Devices                                            |
