@@ -187,11 +187,35 @@
 .students-page table {
   font-size: 1rem;
   line-height: 1.5;
+  min-width: 980px;
+  table-layout: auto;
 }
 
 .students-page td,
 .students-page th {
   padding: 0.7rem 0.8rem;
+}
+
+.students-page {
+  overflow-x: auto;
+}
+
+.home-page .page__content,
+.home-page .page__content p,
+.home-page .page__content li,
+.home-page .page__content table,
+.home-page .page__content th,
+.home-page .page__content td {
+  font-family: $global-font-family;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.home-page .page__content h2,
+.home-page .page__content h3,
+.home-page .page__content h4 {
+  font-family: $global-font-family;
+  letter-spacing: 0;
 }
 
 .masthead__inner-wrap,
@@ -217,5 +241,6 @@
 
   .students-page table {
     font-size: 0.95rem;
+    min-width: 900px;
   }
 }
