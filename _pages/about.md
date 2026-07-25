@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "About Me"
 classes:
-  - home-page
+  - about-home
 author_profile: true
 redirect_from: 
   - /about/

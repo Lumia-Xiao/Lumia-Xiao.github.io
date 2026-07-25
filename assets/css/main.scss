@@ -200,26 +200,26 @@
   overflow-x: auto;
 }
 
-.home-page .page__content,
-.home-page .page__content p,
-.home-page .page__content li,
-.home-page .page__content table,
-.home-page .page__content th,
-.home-page .page__content td {
+.about-home .page__content,
+.about-home .page__content p,
+.about-home .page__content li,
+.about-home .page__content table,
+.about-home .page__content th,
+.about-home .page__content td {
   font-family: $global-font-family;
   font-size: 1rem;
   line-height: 1.55;
 }
 
-.home-page .page__content h2,
-.home-page .page__content h3,
-.home-page .page__content h4 {
+.about-home .page__content h2,
+.about-home .page__content h3,
+.about-home .page__content h4 {
   font-family: $global-font-family;
   letter-spacing: 0;
 }
 
 /* Pin the homepage to the same 10/12 content grid used by archive pages. */
-.home-page {
+.about-home {
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
