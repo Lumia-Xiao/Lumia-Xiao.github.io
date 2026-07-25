@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Power Electronics"
+title                    : "Xiao Ziheng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://lumia-xiao.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Xiao Ziheng"
+description              : &description "Xiao Ziheng's academic portfolio in power electronics"
+url                      : https://lumia-xiao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lumia-Xiao/Lumia-Xiao.github.io"
@@ -21,21 +21,6 @@ repository               : "Lumia-Xiao/Lumia-Xiao.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-navigation:
-  main:
-    - title: "Publications"
-      url: /publications/
-    - title: "Talks"
-      url: /talks/
-    - title: "Teaching"
-      url: /teaching/
-    - title: "Portfolio"
-      url: /portfolio/
-    - title: "CV"
-      url: /cv/
-    - title: "Students"
-      url: /students/
-
 author:
   # Biographic information
   avatar           : "profile.png"
@@ -53,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=nABfweAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4144-3532"
+  orcid            : "https://orcid.org/0000-0002-4144-3532"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -66,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Lumia-Xiao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -170,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 

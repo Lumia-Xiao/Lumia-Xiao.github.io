@@ -35,9 +35,49 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv",
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.portfolio-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0;
+}
+
+@media (max-width: 420px) {
+  .portfolio-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+.portfolio-gallery__item,
+.publication-figure {
+  margin: 0;
+}
+
+.portfolio-gallery__item img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.portfolio-gallery__item figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.publication-figure {
+  margin-top: 1.5rem;
+}
+
+.publication-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
