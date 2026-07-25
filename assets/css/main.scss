@@ -224,14 +224,6 @@
   font-family: $global-font-family;
 }
 
-/* Give the homepage the same generous right edge as the navigation content. */
-@media (min-width: 1024px) {
-  .home-page {
-    width: calc(100% + 4rem);
-    margin-right: -4rem;
-  }
-}
-
 @media (max-width: 768px) {
   .content-page {
     font-size: 0.96rem;
