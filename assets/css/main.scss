@@ -81,3 +81,118 @@
   width: 100%;
   height: auto;
 }
+
+/* Keep the CV visually consistent without changing the other archive pages. */
+.cv-page {
+  font-family: $global-font-family;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.cv-page .page__title {
+  font-family: $global-font-family;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 1.25rem;
+}
+
+.cv-page h2,
+.cv-page h3,
+.cv-page h4 {
+  font-family: $global-font-family;
+  letter-spacing: 0;
+}
+
+.cv-page h2 {
+  padding-bottom: 0.35rem;
+  margin-top: 2.25rem;
+  margin-bottom: 0.9rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+  border-bottom: 2px solid var(--global-border-color);
+}
+
+.cv-page h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.cv-page p,
+.cv-page li,
+.cv-page a,
+.cv-page .btn,
+.cv-page table,
+.cv-page th,
+.cv-page td {
+  font-family: inherit;
+}
+
+.cv-page table {
+  margin: 0 0 1.35rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  border: 1px solid var(--global-border-color);
+}
+
+.cv-page thead {
+  background: var(--global-thead-color);
+}
+
+.cv-page th {
+  font-weight: 700;
+  white-space: normal;
+}
+
+.cv-page td,
+.cv-page th {
+  padding: 0.6rem 0.7rem;
+  vertical-align: top;
+}
+
+.cv-page td p,
+.cv-page th p {
+  margin: 0;
+}
+
+.cv-page em {
+  font-family: inherit;
+}
+
+.cv-page .btn {
+  font-size: 0.9rem;
+  line-height: 1.2;
+  margin: 0 0.4rem 0.6rem 0;
+}
+
+.cv-page .archive__item-title {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.cv-page .archive__item p,
+.cv-page .archive__item-excerpt {
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 768px) {
+  .cv-page {
+    font-size: 0.96rem;
+  }
+
+  .cv-page table {
+    display: block;
+    overflow-x: auto;
+  }
+
+  .cv-page th,
+  .cv-page td {
+    min-width: 7rem;
+  }
+}
