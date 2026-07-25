@@ -224,14 +224,6 @@
   font-family: $global-font-family;
 }
 
-/* Keep the homepage clear of the fixed profile sidebar on desktop. */
-@media (min-width: 1024px) {
-  .home-page {
-    width: auto;
-    margin-right: 0;
-  }
-}
-
 @media (max-width: 768px) {
   .content-page {
     font-size: 0.96rem;
