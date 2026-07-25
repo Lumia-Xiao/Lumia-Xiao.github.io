@@ -218,6 +218,14 @@
   letter-spacing: 0;
 }
 
+/* Pin the homepage to the same 10/12 content grid used by archive pages. */
+.home-page {
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
+}
+
 .masthead__inner-wrap,
 .masthead__menu,
 .masthead__menu-item {
