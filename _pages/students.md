@@ -1,6 +1,8 @@
 ---
 permalink: /students/
 title: "Students"
+classes:
+  - students-page
 author_profile: true
 redirect_from: 
   - /students.html

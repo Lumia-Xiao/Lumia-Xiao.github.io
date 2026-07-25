@@ -82,14 +82,14 @@
   height: auto;
 }
 
-/* Keep the CV visually consistent without changing the other archive pages. */
-.cv-page {
+/* Keep all content pages visually consistent without changing the sidebar. */
+.content-page {
   font-family: $global-font-family;
   font-size: 1rem;
   line-height: 1.55;
 }
 
-.cv-page .page__title {
+.content-page .page__title {
   font-family: $global-font-family;
   font-size: 2rem;
   font-weight: 700;
@@ -97,14 +97,17 @@
   margin-bottom: 1.25rem;
 }
 
-.cv-page h2,
-.cv-page h3,
-.cv-page h4 {
+.content-page h1,
+.content-page h2,
+.content-page h3,
+.content-page h4,
+.content-page h5,
+.content-page h6 {
   font-family: $global-font-family;
   letter-spacing: 0;
 }
 
-.cv-page h2 {
+.content-page h2 {
   padding-bottom: 0.35rem;
   margin-top: 2.25rem;
   margin-bottom: 0.9rem;
@@ -113,86 +116,106 @@
   border-bottom: 2px solid var(--global-border-color);
 }
 
-.cv-page h3 {
+.content-page h3 {
   margin-top: 1.4rem;
   margin-bottom: 0.65rem;
   font-size: 1.05rem;
   font-weight: 700;
 }
 
-.cv-page p,
-.cv-page li,
-.cv-page a,
-.cv-page .btn,
-.cv-page table,
-.cv-page th,
-.cv-page td {
+.content-page p,
+.content-page li,
+.content-page a,
+.content-page .btn,
+.content-page table,
+.content-page th,
+.content-page td {
   font-family: inherit;
 }
 
-.cv-page table {
+.content-page table {
   margin: 0 0 1.35rem;
   font-size: 0.92rem;
   line-height: 1.45;
   border: 1px solid var(--global-border-color);
 }
 
-.cv-page thead {
+.content-page thead {
   background: var(--global-thead-color);
 }
 
-.cv-page th {
+.content-page th {
   font-weight: 700;
   white-space: normal;
 }
 
-.cv-page td,
-.cv-page th {
+.content-page td,
+.content-page th {
   padding: 0.6rem 0.7rem;
   vertical-align: top;
 }
 
-.cv-page td p,
-.cv-page th p {
+.content-page td p,
+.content-page th p {
   margin: 0;
 }
 
-.cv-page em {
+.content-page em {
   font-family: inherit;
 }
 
-.cv-page .btn {
+.content-page .btn {
   font-size: 0.9rem;
   line-height: 1.2;
   margin: 0 0.4rem 0.6rem 0;
 }
 
-.cv-page .archive__item-title {
+.content-page .archive__item-title {
   font-family: inherit;
   font-size: 1rem;
   line-height: 1.4;
   font-weight: 700;
 }
 
-.cv-page .archive__item p,
-.cv-page .archive__item-excerpt {
+.content-page .archive__item p,
+.content-page .archive__item-excerpt {
   font-family: inherit;
   font-size: 0.9rem;
   line-height: 1.45;
 }
 
+.students-page table {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.students-page td,
+.students-page th {
+  padding: 0.7rem 0.8rem;
+}
+
+.masthead__inner-wrap,
+.masthead__menu,
+.masthead__menu-item {
+  font-family: $global-font-family;
+}
+
 @media (max-width: 768px) {
-  .cv-page {
+  .content-page {
     font-size: 0.96rem;
   }
 
-  .cv-page table {
+  .content-page table {
     display: block;
     overflow-x: auto;
   }
 
-  .cv-page th,
-  .cv-page td {
+  .content-page th,
+  .content-page td {
     min-width: 7rem;
+  }
+
+  .students-page table {
+    font-size: 0.95rem;
   }
 }
