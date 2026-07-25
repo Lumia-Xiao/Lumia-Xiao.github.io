@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Website improvement
+about: Suggest an improvement to the academic homepage
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Problem or opportunity**
+Describe the website problem or improvement opportunity.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Suggested change**
+Describe what should change and which page or section it affects.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Alternatives**
+Describe any alternative approaches you considered.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.

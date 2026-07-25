@@ -1,8 +1,23 @@
-Contributions are welcome! 
+# Contributing
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+This repository maintains Xiao Ziheng's academic homepage. Contributions should be limited to corrections or improvements to the website and its academic records.
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## Reporting an Issue
 
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+Open an [issue](https://github.com/Lumia-Xiao/Lumia-Xiao.github.io/issues) for:
 
+- Broken links or missing assets
+- Typographical or factual corrections
+- Accessibility or responsive-layout problems
+- Build and deployment failures
+
+Do not submit personal or sensitive information in a public issue.
+
+## Proposing a Change
+
+1. Create a branch from `master`.
+2. Keep the change focused and preserve the existing Jekyll collection structure.
+3. Run the relevant validation or local Jekyll build.
+4. Open a pull request describing the problem and the change.
+
+Publication metadata should include a stable DOI link and an accurate citation. Images should be optimized before they are added to a listing page.

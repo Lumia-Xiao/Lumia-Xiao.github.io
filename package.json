@@ -1,25 +1,23 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "name": "lumia-xiao-academic-homepage",
+  "version": "1.0.0",
+  "description": "Build scripts for Xiao Ziheng's academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/Lumia-Xiao/Lumia-Xiao.github.io"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic-website",
+    "power-electronics",
+    "github-pages"
   ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
-  ],
+  "author": "Xiao Ziheng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/Lumia-Xiao/Lumia-Xiao.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://lumia-xiao.github.io/",
   "engines": {
     "node": ">= 0.10.0"
   },
