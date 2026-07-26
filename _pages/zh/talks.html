@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "学术报告与演讲"
+permalink: /zh/talks/
+lang: zh
+translation_key: talks
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+  <p><a href="/talkmap.html">查看学术报告地点地图</a></p>
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

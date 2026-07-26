@@ -24,6 +24,10 @@ en:
     portfolio: Portfolio
     cv: CV
     students: Students
+  publication_categories:
+    books: Books
+    manuscripts: Journal Articles
+    conferences: Conference Papers
 
 zh:
   site:
@@ -51,3 +55,7 @@ zh:
     portfolio: 项目
     cv: 简历
     students: 学生
+  publication_categories:
+    books: 图书
+    manuscripts: 期刊论文
+    conferences: 会议论文
