@@ -1,6 +1,8 @@
 ---
 permalink: /students/
 title: "Students"
+lang: en
+translation_key: students
 classes:
   - students-page
 author_profile: true

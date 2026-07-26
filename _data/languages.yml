@@ -1,0 +1,18 @@
+default: en
+
+supported:
+  en:
+    locale: en-US
+    html_lang: en
+    name: English
+    native_name: English
+    switch_label: 中文
+    url_prefix: ""
+
+  zh:
+    locale: zh-CN
+    html_lang: zh-CN
+    name: Chinese
+    native_name: 简体中文
+    switch_label: EN
+    url_prefix: /zh

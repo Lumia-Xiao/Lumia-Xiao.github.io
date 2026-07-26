@@ -1,0 +1,33 @@
+en:
+  site:
+    title: Xiao Ziheng
+    description: Xiao Ziheng's academic portfolio in power electronics
+  language:
+    name: English
+    switch_label: 中文
+    switch_aria: View this page in Chinese
+  navigation:
+    home: Home
+    publications: Publications
+    talks: Talks
+    teaching: Teaching
+    portfolio: Portfolio
+    cv: CV
+    students: Students
+
+zh:
+  site:
+    title: 肖子衡
+    description: 肖子衡的电力电子学术主页
+  language:
+    name: 简体中文
+    switch_label: EN
+    switch_aria: 查看本页英文版本
+  navigation:
+    home: 首页
+    publications: 论文
+    talks: 报告
+    teaching: 教学
+    portfolio: 项目
+    cv: 简历
+    students: 学生

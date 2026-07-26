@@ -2,6 +2,8 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+lang: en
+translation_key: cv
 author_profile: true
 classes:
   - cv-page

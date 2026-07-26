@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "About Me"
+lang: en
+translation_key: home
 classes:
   - about-home
 author_profile: true
