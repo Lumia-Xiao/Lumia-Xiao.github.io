@@ -234,6 +234,23 @@
       }
     }
 
+    #language-toggle {
+      a,
+      .language-toggle__disabled {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+        margin: 0 0.75rem;
+        padding: 0.5rem 0;
+      }
+
+      .language-toggle__disabled {
+        color: var(--global-masthead-link-color);
+        cursor: not-allowed;
+        opacity: 0.5;
+      }
+    }
+
     a {
       position: relative;
 

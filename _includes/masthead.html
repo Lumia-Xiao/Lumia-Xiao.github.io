@@ -1,20 +1,51 @@
 {% include base_path %}
+{% assign page_lang = page.lang | default: site.data.languages.default %}
+{% assign localized = site.data.i18n[page_lang] | default: site.data.i18n.en %}
+{% assign home_paths = site.data.page_translations.home %}
+{% assign home_url = home_paths[page_lang] | default: '/' %}
+
+{% if page_lang == 'zh' %}
+  {% assign target_lang = 'en' %}
+{% else %}
+  {% assign target_lang = 'zh' %}
+{% endif %}
+{% assign translation_group = site.data.page_translations[page.translation_key] | default: home_paths %}
+{% assign switch_url = translation_group[target_lang] | default: home_paths[target_lang] %}
+{% assign switch_available = false %}
+{% for candidate_page in site.pages %}
+  {% if candidate_page.url == switch_url %}
+    {% assign switch_available = true %}
+  {% endif %}
+{% endfor %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" aria-label="{{ localized.navigation.aria_label }}">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ home_url | prepend: base_path }}">{{ localized.site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+            {% assign translated_path = site.data.page_translations[link.key][page_lang] | default: link.url %}
+            {% assign translated_title = localized.navigation[link.key] | default: link.title %}
+            {% if translated_path contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ translated_path }}">{{ translated_title }}</a></li>
           {% endfor %}
+          <li id="language-toggle" class="masthead__menu-item persist">
+            {% if switch_available %}
+              <a href="{{ switch_url | prepend: base_path }}" lang="{{ site.data.languages.supported[target_lang].html_lang }}" aria-label="{{ localized.language.switch_aria }}">
+                <i class="fas fa-language" aria-hidden="true"></i><span>{{ localized.language.switch_label }}</span>
+              </a>
+            {% else %}
+              <span class="language-toggle__disabled" aria-disabled="true" title="{{ localized.language.unavailable }}">
+                <i class="fas fa-language" aria-hidden="true"></i><span>{{ localized.language.switch_label }}</span>
+              </span>
+            {% endif %}
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

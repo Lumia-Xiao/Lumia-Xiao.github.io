@@ -6,7 +6,17 @@ en:
     name: English
     switch_label: 中文
     switch_aria: View this page in Chinese
+    unavailable: Chinese version is being prepared
+  author:
+    name: Xiao Ziheng (肖子衡)
+    bio: The past mind cannot be grasped; the present mind cannot be grasped; the future mind cannot be grasped.
+    location: Energy Research Institute @ NTU
+    employer: Nanyang Technological University
+    follow: Follow
+    website: Website
+    email: Email
   navigation:
+    aria_label: Main navigation
     home: Home
     publications: Publications
     talks: Talks
@@ -23,7 +33,17 @@ zh:
     name: 简体中文
     switch_label: EN
     switch_aria: 查看本页英文版本
+    unavailable: 英文版本正在准备中
+  author:
+    name: 肖子衡
+    bio: 过去心不可得。现在心不可得。未来心不可得。
+    location: 南洋理工大学能源研究院
+    employer: 南洋理工大学
+    follow: 关注
+    website: 个人网站
+    email: 邮箱
   navigation:
+    aria_label: 主导航
     home: 首页
     publications: 论文
     talks: 报告
