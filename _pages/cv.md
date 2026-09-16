@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated July 22, 2026.
+Last updated September 7, 2026.
 
 [Download One-Page CV]({{ base_path }}/files/CV_XiaoZiheng_1page.pdf){: .btn .btn--primary }
 [Download Full CV]({{ base_path }}/files/CV_XiaoZiheng_full.pdf){: .btn .btn--inverse }
@@ -22,7 +22,7 @@ Last updated July 22, 2026.
 
 | Field | Details |
 |---|---|
-| Current position | Senior Research Fellow, Energy Research Institute @ NTU (ERI@N) |
+| Current position | Senior Research Fellow, School of Electrical and Electronic Engineering, NTU |
 | Institution | Nanyang Technological University, Singapore |
 | Areas of specialism | Power Electronics and Artificial Intelligence |
 | Web of Science ID | AAA-8268-2020 |
@@ -41,7 +41,7 @@ Last updated July 22, 2026.
 
 | Year | Appointment |
 |---|---|
-| 2026-Present | **Senior Research Fellow**, Energy Research Institute @ NTU (ERI@N), supervised by Professor Yi Tang, Associate Chair of the School of Electrical and Electronic Engineering, NTU |
+| 2026-Present | **Senior Research Fellow**, School of Electrical and Electronic Engineering, NTU, supervised by Professor Yi Tang, Associate Chair of EEE |
 | 2023-Present | **Part-time Lecturer**, School of Electrical and Electronic Engineering, NTU; responsible for postgraduate courses EE6506, EE6514, and EE6501 |
 | 2022-2026 | **Postdoctoral Research Fellow**, Energy Research Institute @ NTU (ERI@N), supervised by Professor Yi Tang |
 
@@ -62,11 +62,11 @@ Last updated July 22, 2026.
 
 | Database | Without Self-Citations | With Self-Citations | H-index |
 |---|---:|---:|---:|
-| Scopus | - | 598 | 15 |
-| Web of Science (SCI) | 333 | 436 | 12 |
-| Google Scholar | - | 677 | 15 |
+| Scopus | - | 632 | 15 |
+| Web of Science (SCI) | 357 | 467 | 13 |
+| Google Scholar | - | 711 | 16 |
 
-*Citation metrics accessed on July 22, 2026.*
+*Citation metrics accessed on September 7, 2026.*
 
 ## Publication Summary
 
@@ -76,7 +76,7 @@ Last updated July 22, 2026.
 |---|---:|---:|---:|---:|---:|---:|
 | First Author | 3 | 15 | 1 | 2 | 2 | **23** |
 | Corresponding Author | 0 | 2 | 1 | 0 | 0 | **3** |
-| Co-Author | 3 | 8 | 1 | 2 | 1 | **15** |
+| Co-Author | 4 | 9 | 1 | 2 | 1 | **17** |
 
 ### Conference Publications
 
@@ -126,7 +126,7 @@ Last updated July 22, 2026.
 
 ## Student Supervision
 
-Thirty students mentored or co-mentored: 10 M.Sc. theses, 9 EE6008 projects, 8 final-year projects, and 3 URECA projects. See the complete [student supervision record]({{ base_path }}/students/).
+Thirty-five students mentored or co-mentored: 12 M.Sc. theses, 9 EE6008 projects, 9 final-year projects, and 5 URECA projects. See the complete [student supervision record]({{ base_path }}/students/).
 
 ## Publications Listed on This Site
 

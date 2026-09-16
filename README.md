@@ -1,6 +1,6 @@
 # Xiao Ziheng - Academic Homepage
 
-This repository contains the source code and academic content for [lumia-xiao.github.io](https://lumia-xiao.github.io/), the personal homepage of **Xiao Ziheng**, Senior Research Fellow at the Energy Research Institute @ NTU (ERI@N), Nanyang Technological University, Singapore.
+This repository contains the source code and academic content for [lumia-xiao.github.io](https://lumia-xiao.github.io/), the personal homepage of **Xiao Ziheng**, Senior Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
 
 > **Template provenance:** This personal homepage is built from the open-source [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and has been substantially customized with Xiao Ziheng's own biography, publications, teaching records, projects, photographs, and CV materials. Academic Pages and its upstream theme authors are acknowledged below; this repository is not the upstream Academic Pages project.
 

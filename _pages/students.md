@@ -14,6 +14,11 @@ redirect_from:
 
 | No. | Name | Class | Thesis Project Title |
 |-----|------|-------|----------------------|
+| 35 | YANG SHUTONG | M.Sc.(Power Eng.) Batch 2026 | M.Sc.<br>Large-Language-Model-Assisted Automated Design of Power Electronic Converters from Natural-Language Specifications |
+| 34 | REN YUHENG | M.Sc.(Power Eng.) Batch 2026 | M.Sc.<br>Multi-Objective Optimization of High-Efficiency Power Converters Using AI-Guided Design Exploration |
+| 33 | YEOW AN TZE (YAO ANZE) | EEE Batch 2026 | FYP B1133-261<br>Power Converter for VCSEL |
+| 32 | ISAAC FRANCIS CHEANG HAOMIN | EEE Batch 2026 | URECA EEE26077<br>Design Power Converters with AI: From Natural Language to Engineering Solutions |
+| 31 | MASON BONG NENG HAO | EEE Batch 2026 | URECA EEE26078<br>Can AI Build Better Power Converters? Intelligent Design Optimization |
 | 30 | PAN TIANQI | M.Sc.(Power Eng.) Batch 2025 | M.Sc.<br>Ultra-Compact and High-Efficiency DC–DC Converters for Next-Generation Power Electronics |
 | 29 | XU WEIZHONG | EEE Batch 2025 | FYP<br>Gate Driver Design for Next-Generation Wideband Gap Power Devices |
 | 28 | MOU XINGYAN | M.Sc.(Power Eng.) Batch 2025 | M.Sc.<br>High-Efficiency High-Frequency Power Converter Design for Next-Generation AI Processors |
