@@ -1,0 +1,25 @@
+---
+title: "Analyze and Mitigate Low-Frequency Ripple of Arm Current for Modular Multilevel Converter based Solid-State Transformers"
+collection: publications
+category: conferences
+publication_id: "P020"
+publication_year: 2024
+figure_image: "publications/P020.webp"
+figure_full_image: "publications/full/P020.webp"
+permalink: "/publication/P020-analyze-and-mitigate-low-frequency-ripple-of-arm-current-for-modular-multilevel-converter-based-solid-state-transformers"
+venue: "2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC2024-ECCE Asia)"
+doi: "10.1109/IPEMC-ECCEAsia60879.2024.10567323"
+paperurl: "https://doi.org/10.1109/IPEMC-ECCEAsia60879.2024.10567323"
+authors: ["Lei Zhang", "Ziheng Xiao", "Haiyu Wang", "Yi Ke Tang", "Shunfeng Yang", "Xin Qi"]
+citation: "L. Zhang, Z. Xiao, H. Wang, Y. K. Tang, S. Yang, and X. Qi, \"Analyze and Mitigate Low-Frequency Ripple of Arm Current for Modular Multilevel Converter based Solid-State Transformers,\" in 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC2024-ECCE Asia), pp. 1108-1113, 2024, doi: 10.1109/IPEMC-ECCEAsia60879.2024.10567323."
+abstract: "Recently, the modular multilevel converter (MMC) has been employed in solid state transformers (SSTs) applications, which have different modulation methods and operational principles from conventional fundamental-frequency MMCs. To maintain the stable operation of MMC-SST, an alternating sorting algorithm was proposed in an existing paper to balance capacitor voltages. As observed from experimental results, when increasing the number of submodules per arm, this method causes low-frequency ripple in arm current and ac-link voltage. The low-frequency arm current leads to the saturation of the arm inductor, resulting in high saturation current and the destruction of semiconductor devices. In addition, the mechanism and impacts of low-frequency arm current and ac-link voltage have not been comprehensively analyzed. In this paper, the mechanism of this phenomenon is analyzed. Based on the analysis, several methods are compared and evaluated for mitigating the low-frequency ripple. Then, a simplified voltage-balancing algorithm is developed. Finally, the proposed analysis and developed method are verified through simulation and experimental results."
+excerpt: "Recently, the modular multilevel converter (MMC) has been employed in solid state transformers (SSTs) applications, which have different modulation methods and operational principles from conventional fundamental-frequency MMCs. To maintain the stable operation of MMC-SST, an alternating sorting algorithm was proposed in an existing paper to balance capacitor voltages. As observed from experimental results, when increasing the number of submodules per arm, this method causes low-frequency ripple in arm current and ac-link voltage. The low-frequency arm current leads to the saturation of the arm inductor, resulting in high saturation current and the destruction of semiconductor devices. In addition, the mechanism and impacts of low-frequency arm current and ac-link voltage have not been comprehensively analyzed. In this paper, the mechanism of this phenomenon is analyzed. Based on the analysis, several methods are compared and evaluated for mitigating the low-frequency ripple. Then, a simplified voltage-balancing algorithm is developed. Finally, the proposed analysis and developed method are verified through simulation and experimental results."
+---
+
+## Abstract
+
+Recently, the modular multilevel converter (MMC) has been employed in solid state transformers (SSTs) applications, which have different modulation methods and operational principles from conventional fundamental-frequency MMCs. To maintain the stable operation of MMC-SST, an alternating sorting algorithm was proposed in an existing paper to balance capacitor voltages. As observed from experimental results, when increasing the number of submodules per arm, this method causes low-frequency ripple in arm current and ac-link voltage. The low-frequency arm current leads to the saturation of the arm inductor, resulting in high saturation current and the destruction of semiconductor devices. In addition, the mechanism and impacts of low-frequency arm current and ac-link voltage have not been comprehensively analyzed. In this paper, the mechanism of this phenomenon is analyzed. Based on the analysis, several methods are compared and evaluated for mitigating the low-frequency ripple. Then, a simplified voltage-balancing algorithm is developed. Finally, the proposed analysis and developed method are verified through simulation and experimental results.
+
+<figure id="research-figure" class="publication-figure">
+  <a href="/images/publications/full/P020.webp"><img src="/images/publications/full/P020.webp" loading="lazy" decoding="async" alt="Research figure: Analyze and Mitigate Low-Frequency Ripple of Arm Current for Modular Multilevel Converter based Solid-State Transformers"></a>
+</figure>

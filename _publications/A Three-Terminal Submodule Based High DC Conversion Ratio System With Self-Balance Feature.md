@@ -1,20 +1,25 @@
 ---
 title: "A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature"
 collection: publications
-category: manuscripts
+category: "manuscripts"
+authors: ["Ziheng Xiao","Zhixing He","Renfeng Guan","Zongjian Li","Ben Zhou","An Luo"]
+doi: "10.1109/TPEL.2021.3131795"
+figure_full_image: "publications/full/P004.webp"
+publication_year: 2022
+publication_id: "P004"
+figure_image: "publications/P004.webp"
 permalink: /publication/A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature
-excerpt: >-
-  The input series output parallel (ISOP) and input parallel output series (IPOS) systems have been extensively researched and applied in academia and industry due to the high dc conversion ratio. Practically, the ISOP and IPOS systems faced challenges, such...
-date: 2021-12-01
-venue: 'IEEE Transactions on Industrial Electronics'
-paperurl: 'https://doi.org/10.1109/TPEL.2021.3131795'
-citation: 'ZZ. Xiao, Z. He, R. Guan, Z. Li, B. Zhou and A. Luo, "A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature," in IEEE Transactions on Power Electronics, vol. 37, no. 5, pp. 5650-5663, May 2022, doi: 10.1109/TPEL.2021.3131795.'
+venue: "IEEE Transactions on Power Electronics"
+paperurl: "https://doi.org/10.1109/TPEL.2021.3131795"
+citation: "Z. Xiao, Z. He, R. Guan, Z. Li, B. Zhou, and A. Luo, \"A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature,\" in IEEE Transactions on Power Electronics, pp. 5650-5663, 2022, doi: 10.1109/TPEL.2021.3131795."
+abstract: "The input series output parallel (ISOP) and input parallel output series (IPOS) systems have been extensively researched and applied in academia and industry due to the high dc conversion ratio. Practically, the ISOP and IPOS systems faced challenges, such as relatively immature high-voltage (HV) isolated high-frequency transformer (HFT), high reliability on HV isolated control system, difficulties in the auxiliary power supply (APS), start-up process, and bypass circuit/strategy. To overcome the above-mentioned challenges without adding complexities, this article proposes the three-terminal submodule (3TSM) as the fundamental SM for high dc conversion ratio step-up/step-down applications. Thanks to the 3TSM, the system is with self-balance feature, HV isolated HFTs are unnecessary, the control system is simplified (no matter in open or closed loop). Besides, commercial APSs can be adopted directly to the SM input capacitors without the unstable “runaway” phenomenon. A bypass circuit is also proposed to retain the power of APS when the SM is bypassed. A 2SM step-down and step-up prototype, together with a subsequent 10-kV input 1 kV/1 kW output converter is built to validate the effectiveness and practical feasibility of the proposed system."
+excerpt: "The input series output parallel (ISOP) and input parallel output series (IPOS) systems have been extensively researched and applied in academia and industry due to the high dc conversion ratio. Practically, the ISOP and IPOS systems faced challenges, such as relatively immature high-voltage (HV) isolated high-frequency transformer (HFT), high reliability on HV isolated control system, difficulties in the auxiliary power supply (APS), start-up process, and bypass circuit/strategy. To overcome the above-mentioned challenges without adding complexities, this article proposes the three-terminal submodule (3TSM) as the fundamental SM for high dc conversion ratio step-up/step-down applications. Thanks to the 3TSM, the system is with self-balance feature, HV isolated HFTs are unnecessary, the control system is simplified (no matter in open or closed loop). Besides, commercial APSs can be adopted directly to the SM input capacitors without the unstable “runaway” phenomenon. A bypass circuit is also proposed to retain the power of APS when the SM is bypassed. A 2SM step-down and step-up prototype, together with a subsequent 10-kV input 1 kV/1 kW output converter is built to validate the effectiveness and practical feasibility of the proposed system."
 ---
 
 ## Abstract
 
 The input series output parallel (ISOP) and input parallel output series (IPOS) systems have been extensively researched and applied in academia and industry due to the high dc conversion ratio. Practically, the ISOP and IPOS systems faced challenges, such as relatively immature high-voltage (HV) isolated high-frequency transformer (HFT), high reliability on HV isolated control system, difficulties in the auxiliary power supply (APS), start-up process, and bypass circuit/strategy. To overcome the above-mentioned challenges without adding complexities, this article proposes the three-terminal submodule (3TSM) as the fundamental SM for high dc conversion ratio step-up/step-down applications. Thanks to the 3TSM, the system is with self-balance feature, HV isolated HFTs are unnecessary, the control system is simplified (no matter in open or closed loop). Besides, commercial APSs can be adopted directly to the SM input capacitors without the unstable “runaway” phenomenon. A bypass circuit is also proposed to retain the power of APS when the SM is bypassed. A 2SM step-down and step-up prototype, together with a subsequent 10-kV input 1 kV/1 kW output converter is built to validate the effectiveness and practical feasibility of the proposed system.
 
-<figure class="publication-figure">
-  <img src="/images/A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature.webp" loading="lazy" decoding="async" alt="A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature">
+<figure id="research-figure" class="publication-figure">
+  <a href="/images/publications/full/P004.webp"><img src="/images/publications/full/P004.webp" loading="lazy" decoding="async" alt="Research figure: A Three-Terminal Submodule Based High DC Conversion Ratio System With Self-Balance Feature"></a>
 </figure>

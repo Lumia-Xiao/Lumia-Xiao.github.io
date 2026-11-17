@@ -1,20 +1,25 @@
 ---
 title: "Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons"
 collection: publications
-category: manuscripts
+category: "manuscripts"
+authors: ["Renjie Hou","Yang Liu","Zhixing He","Zongjian Li","Muxuan Xiao","Jihong Guan","Yandong Chen","Jing Wang","Ziheng Xiao","Hongliang Wang"]
+doi: "10.1109/JESTPE.2024.3412800"
+figure_full_image: "publications/full/P023.webp"
+publication_year: 2024
+publication_id: "P023"
+figure_image: "publications/P023.webp"
 permalink: /publication/Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons
-excerpt: >-
-  Due to the integration and utilization of the parasitic capacitance of the transformer, the LCC resonant converters with a capacitive output filter are widely used in high-voltage power supplies for microwave generation, X-ray, ion implantation, and other...
-date: 2024-06-11
-venue: 'IEEE Journal of Emerging and Selected Topics in Power Electronics'
-paperurl: 'https://doi.org/10.1109/JESTPE.2024.3412800'
-citation: 'R. Hou et al., "Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 4, pp. 3835-3847, Aug. 2024, doi: 10.1109/JESTPE.2024.3412800.'
+venue: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+paperurl: "https://doi.org/10.1109/JESTPE.2024.3412800"
+citation: "R. Hou, Y. Liu, Z. He, Z. Li, M. Xiao, J. Guan, Y. Chen, J. Wang, Z. Xiao, and H. Wang, \"Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, pp. 3835-3847, 2024, doi: 10.1109/JESTPE.2024.3412800."
+abstract: "Due to the integration and utilization of the parasitic capacitance of the transformer, the LCC resonant converters with a capacitive output filter are widely used in high-voltage power supplies for microwave generation, X-ray, ion implantation, and other fields. However, it is challenging for the LCC to maintain high efficiency in a wide output voltage range. In this article, an optimal control coordinate trajectories (OCCTs)-based phase-shift pulse-frequency modulation (PS-PFM) control method is proposed to achieve high efficiency by reducing the switching frequency range and the turn-off current. With the normalized time-domain analysis, the operation stage trajectories of LCC and their boundary conditions under the PS-PFM control are derived. Based on this, the OCCTs of the switching frequency and the duty cycle at different voltage gains are precisely calculated. By associating the duty cycle with the switching frequency and the output voltage gain through a fit equation based on the OCCTs data, the proposed PS-PFM control strategy can adaptively adjust the optimal duty cycle, simplifying one of the control freedom degrees. Then, an optimization design algorithm for the resonant network parameter is proposed to reduce the conduction loss of LCC. Finally, a 10–20-kV/15-kW LCC resonant high-voltage power supply prototype is built to verify the feasibility of the proposed control strategy."
+excerpt: "Due to the integration and utilization of the parasitic capacitance of the transformer, the LCC resonant converters with a capacitive output filter are widely used in high-voltage power supplies for microwave generation, X-ray, ion implantation, and other fields. However, it is challenging for the LCC to maintain high efficiency in a wide output voltage range. In this article, an optimal control coordinate trajectories (OCCTs)-based phase-shift pulse-frequency modulation (PS-PFM) control method is proposed to achieve high efficiency by reducing the switching frequency range and the turn-off current. With the normalized time-domain analysis, the operation stage trajectories of LCC and their boundary conditions under the PS-PFM control are derived. Based on this, the OCCTs of the switching frequency and the duty cycle at different voltage gains are precisely calculated. By associating the duty cycle with the switching frequency and the output voltage gain through a fit equation based on the OCCTs data, the proposed PS-PFM control strategy can adaptively adjust the optimal duty cycle, simplifying one of the control freedom degrees. Then, an optimization design algorithm for the resonant network parameter is proposed to reduce the conduction loss of LCC. Finally, a 10–20-kV/15-kW LCC resonant high-voltage power supply prototype is built to verify the feasibility of the proposed control strategy."
 ---
 
 ## Abstract
 
 Due to the integration and utilization of the parasitic capacitance of the transformer, the LCC resonant converters with a capacitive output filter are widely used in high-voltage power supplies for microwave generation, X-ray, ion implantation, and other fields. However, it is challenging for the LCC to maintain high efficiency in a wide output voltage range. In this article, an optimal control coordinate trajectories (OCCTs)-based phase-shift pulse-frequency modulation (PS-PFM) control method is proposed to achieve high efficiency by reducing the switching frequency range and the turn-off current. With the normalized time-domain analysis, the operation stage trajectories of LCC and their boundary conditions under the PS-PFM control are derived. Based on this, the OCCTs of the switching frequency and the duty cycle at different voltage gains are precisely calculated. By associating the duty cycle with the switching frequency and the output voltage gain through a fit equation based on the OCCTs data, the proposed PS-PFM control strategy can adaptively adjust the optimal duty cycle, simplifying one of the control freedom degrees. Then, an optimization design algorithm for the resonant network parameter is proposed to reduce the conduction loss of LCC. Finally, a 10–20-kV/15-kW LCC resonant high-voltage power supply prototype is built to verify the feasibility of the proposed control strategy.
 
-<figure class="publication-figure">
-  <img src="/images/Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons.webp" loading="lazy" decoding="async" alt="Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons">
+<figure id="research-figure" class="publication-figure">
+  <a href="/images/publications/full/P023.webp"><img src="/images/publications/full/P023.webp" loading="lazy" decoding="async" alt="Research figure: Optimization and Design of LCC Resonant High-Voltage Wide Range Power Supply for Magnetrons"></a>
 </figure>

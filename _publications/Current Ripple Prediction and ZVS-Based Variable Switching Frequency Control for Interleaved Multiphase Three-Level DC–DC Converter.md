@@ -1,20 +1,25 @@
 ---
-title: "Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter"
+title: "Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC-DC Converter"
 collection: publications
-category: manuscripts
+category: "manuscripts"
+authors: ["Zhigang Yao","Xinyu He","Ziheng Xiao","Fei Deng","Chaohua Dai","Shuai Lu","Yi Ke Tang"]
+doi: "10.1109/TPEL.2024.3521997"
+figure_full_image: "publications/full/P049.webp"
+publication_year: 2025
+publication_id: "P049"
+figure_image: "publications/P049.webp"
 permalink: /publication/Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter
-excerpt: >-
-  For high-power applications, the interleaved three-level dc–dc converter is a preferred topology to meet high voltage and high current demands. However, due to the coupling effect of multiple switches, the inductor current is not a standard triangular...
-date: 2024-12-24
-venue: 'IEEE Transactions on Power Electronics'
-paperurl: 'https://doi.org/10.1109/TPEL.2024.3521997'
-citation: 'Z. Yao et al., "Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter," in IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 5109-5119, April 2025, doi: 10.1109/TPEL.2024.3521997.'
+venue: "IEEE Transactions on Power Electronics"
+paperurl: "https://doi.org/10.1109/TPEL.2024.3521997"
+citation: "Z. Yao, X. He, Z. Xiao, F. Deng, C. Dai, S. Lu, and Y. K. Tang, \"Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC-DC Converter,\" in IEEE Transactions on Power Electronics, pp. 5109-5119, 2025, doi: 10.1109/TPEL.2024.3521997."
+abstract: "For high-power applications, the interleaved three-level dc–dc converter is a preferred topology to meet high voltage and high current demands. However, due to the coupling effect of multiple switches, the inductor current is not a standard triangular waveform, complicating analysis and control in near-critical conduction mode (near-CRM). This article proposes an inductor current ripple prediction method and establishes a unified current ripple expression for an interleaved n-phase three-level dc–dc converter. The unified expression for predicting current ripple is applicable to any multiphase, eliminating the traditional cumbersome solution using segmented duty cycles and case-by-case analysis for each interleaved phase number. Based on the current ripple prediction, a variable switching frequency control method is proposed that does not require additional high-frequency sensors or auxiliary circuits, enabling zero-voltage switching (ZVS) in near-CRM. The required switching frequency is calculated within a digital controller based on current ripple prediction instead of current zero-crossing detection. The proposed current ripple prediction and ZVS-based variable switching frequency control are validated in an IGBT-based 15.6-kW three-phase interleaved three-level dc–dc converter, achieving maximum efficiency of 98.03%."
+excerpt: "For high-power applications, the interleaved three-level dc–dc converter is a preferred topology to meet high voltage and high current demands. However, due to the coupling effect of multiple switches, the inductor current is not a standard triangular waveform, complicating analysis and control in near-critical conduction mode (near-CRM). This article proposes an inductor current ripple prediction method and establishes a unified current ripple expression for an interleaved n-phase three-level dc–dc converter. The unified expression for predicting current ripple is applicable to any multiphase, eliminating the traditional cumbersome solution using segmented duty cycles and case-by-case analysis for each interleaved phase number. Based on the current ripple prediction, a variable switching frequency control method is proposed that does not require additional high-frequency sensors or auxiliary circuits, enabling zero-voltage switching (ZVS) in near-CRM. The required switching frequency is calculated within a digital controller based on current ripple prediction instead of current zero-crossing detection. The proposed current ripple prediction and ZVS-based variable switching frequency control are validated in an IGBT-based 15.6-kW three-phase interleaved three-level dc–dc converter, achieving maximum efficiency of 98.03%."
 ---
 
 ## Abstract
 
 For high-power applications, the interleaved three-level dc–dc converter is a preferred topology to meet high voltage and high current demands. However, due to the coupling effect of multiple switches, the inductor current is not a standard triangular waveform, complicating analysis and control in near-critical conduction mode (near-CRM). This article proposes an inductor current ripple prediction method and establishes a unified current ripple expression for an interleaved n-phase three-level dc–dc converter. The unified expression for predicting current ripple is applicable to any multiphase, eliminating the traditional cumbersome solution using segmented duty cycles and case-by-case analysis for each interleaved phase number. Based on the current ripple prediction, a variable switching frequency control method is proposed that does not require additional high-frequency sensors or auxiliary circuits, enabling zero-voltage switching (ZVS) in near-CRM. The required switching frequency is calculated within a digital controller based on current ripple prediction instead of current zero-crossing detection. The proposed current ripple prediction and ZVS-based variable switching frequency control are validated in an IGBT-based 15.6-kW three-phase interleaved three-level dc–dc converter, achieving maximum efficiency of 98.03%.
 
-<figure class="publication-figure">
-  <img src="/images/Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter.webp" loading="lazy" decoding="async" alt="Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC–DC Converter">
+<figure id="research-figure" class="publication-figure">
+  <a href="/images/publications/full/P049.webp"><img src="/images/publications/full/P049.webp" loading="lazy" decoding="async" alt="Research figure: Current Ripple Prediction and ZVS-Based Variable Switching Frequency Control for Interleaved Multiphase Three-Level DC-DC Converter"></a>
 </figure>

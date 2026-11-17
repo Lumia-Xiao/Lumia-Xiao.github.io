@@ -1,0 +1,35 @@
+{% if post.figure_image %}
+  {% include base_path %}
+  <article class="publication-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <a class="publication-list-item__image" href="{{ post.url | relative_url }}#research-figure" aria-label="View publication: {{ post.title | escape }}">
+      <img src="{{ post.figure_image | prepend: '/images/' | relative_url }}"
+        alt="Research figure for {{ post.title | escape }}"
+        width="900" height="1000" loading="lazy" decoding="async">
+    </a>
+    <div class="publication-list-item__content">
+      <h3 class="archive__item-title publication-list-item__title" itemprop="headline">
+        <a href="{{ post.url | relative_url }}#research-figure">{{ post.title }}</a>
+      </h3>
+      {% if post.venue or post.publication_year or post.date %}
+        <p class="publication-list-item__meta">
+          {% if post.venue %}Published in <i>{{ post.venue }}</i>{% endif %}{% if post.venue and post.publication_year %}, {% endif %}{% if post.publication_year %}{{ post.publication_year }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+        </p>
+      {% endif %}
+      {% assign publication_abstract = post.abstract | default: post.excerpt %}
+      {% if publication_abstract %}
+        <p class="publication-list-item__excerpt" itemprop="description">{{ publication_abstract | markdownify | strip_html | normalize_whitespace }}</p>
+      {% endif %}
+      <div class="publication-list-item__links">
+        {% if page.lang == "zh" %}
+          <a href="{{ post.url | relative_url }}#research-figure">查看论文</a>
+          {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">DOI / 原文</a>{% endif %}
+        {% else %}
+          <a href="{{ post.url | relative_url }}#research-figure">Details</a>
+          {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">DOI / Paper</a>{% endif %}
+        {% endif %}
+      </div>
+    </div>
+  </article>
+{% else %}
+  {% include archive-single.html type="list" %}
+{% endif %}

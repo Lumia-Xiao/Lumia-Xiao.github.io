@@ -82,6 +82,64 @@
   height: auto;
 }
 
+.publication-list-item {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  align-items: start;
+  gap: 1.25rem;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.publication-list-item__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 9 / 10;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+}
+
+.publication-list-item__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.publication-list-item__content {
+  min-width: 0;
+}
+
+.publication-list-item__title {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.publication-list-item__meta,
+.publication-list-item__excerpt {
+  margin: 0.35rem 0 0.65rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.publication-list-item__excerpt {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+  overflow-wrap: anywhere;
+}
+
+.publication-list-item__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 0.65rem;
+  font-size: 0.9rem;
+}
+
 /* Keep all content pages visually consistent without changing the sidebar. */
 .content-page {
   font-family: $global-font-family;
@@ -250,5 +308,21 @@
   .students-page table {
     font-size: 0.95rem;
     min-width: 900px;
+  }
+
+  .publication-list-item {
+    grid-template-columns: minmax(120px, 34%) minmax(0, 1fr);
+    gap: 0.9rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .publication-list-item {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+
+  .publication-list-item__image {
+    width: min(100%, 260px);
   }
 }
