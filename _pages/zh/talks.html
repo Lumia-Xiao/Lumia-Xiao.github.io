@@ -11,6 +11,9 @@ author_profile: true
   <p><a href="/talkmap.html">查看学术报告地点地图</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign talks_by_date = site.talks | where: "first_author", "Ziheng Xiao" | sort: "date" | reverse %}
+<p>本页收录 {{ talks_by_date | size }} 篇第一作者会议论文，按会议日期倒序排列。</p>
+
+{% for post in talks_by_date %}
   {% include archive-single-talk.html %}
 {% endfor %}

@@ -35,8 +35,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %d, %Y' }}</time>{% if post.date_end and post.date_end != post.date %} &ndash; <time datetime="{{ post.date_end | date: '%Y-%m-%d' }}">{{ post.date_end | date: '%B %d, %Y' }}</time>{% endif %}</p>{% endif %}
+    {% if post.authors %}<p class="archive__item-excerpt">{{ post.authors | join: ', ' | escape }}</p>{% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt">{% if page.lang == 'zh' and post.first_author %}第一作者会议论文{% else %}{{ post.type }}{% endif %}, {{ post.venue | escape }}{% if post.location %}, {{ post.location | escape }}{% endif %}</p>{% endif %}
+    {% if post.excerpt %}<div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>{% endif %}
+    {% if post.publication_url or post.paperurl %}
+      <p class="archive__item-excerpt">{% if post.publication_url %}<a href="{{ post.publication_url | relative_url }}">{% if page.lang == 'zh' %}研究成果图{% else %}Research figure{% endif %}</a>{% endif %}{% if post.publication_url and post.paperurl %} &middot; {% endif %}{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{% if page.lang == 'zh' %}IEEE / 原文{% else %}IEEE / Paper{% endif %}</a>{% endif %}</p>
+    {% endif %}
   </article>
 </div>

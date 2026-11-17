@@ -13,6 +13,9 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign talks_by_date = site.talks | where: "first_author", "Ziheng Xiao" | sort: "date" | reverse %}
+<p>{{ talks_by_date | size }} first-author conference papers, listed by conference date (newest first).</p>
+
+{% for post in talks_by_date %}
   {% include archive-single-talk.html %}
 {% endfor %}
