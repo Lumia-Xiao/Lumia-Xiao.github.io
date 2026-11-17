@@ -8,7 +8,7 @@ date: 2025-07-21
 date_end: 2025-07-24
 location: "Penang, Malaysia"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Lei Zhang","Fei Deng","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Lei Zhang","Fei Deng","Yi Tang"]
 publication_id: "P054"
 publication_url: "/publication/P054-comparisons-of-cycle-by-cycle-start-up-control-in-synchronous-boost-converters#research-figure"
 paperurl: "https://doi.org/10.1109/PEDS63958.2025.11144889"

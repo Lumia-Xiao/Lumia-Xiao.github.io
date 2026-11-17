@@ -8,7 +8,7 @@ date: 2023-10-16
 date_end: 2023-10-19
 location: "Singapore, Singapore"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Yu Yan Jiang","Zhigang Yao","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Yu Jiang","Zhigang Yao","Yi Tang"]
 publication_id: "P011"
 publication_url: "/publication/P011-a-precise-and-fast-bpnn-based-voltage-gain-model-of-cllc-converters-in-all-operation-conditions#research-figure"
 paperurl: "https://doi.org/10.1109/IECON51785.2023.10312473"

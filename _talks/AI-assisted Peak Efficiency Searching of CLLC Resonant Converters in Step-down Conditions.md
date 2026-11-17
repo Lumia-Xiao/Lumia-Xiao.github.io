@@ -8,7 +8,7 @@ date: 2024-05-17
 date_end: 2024-05-20
 location: "Chengdu, China"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Yu Yan Jiang","Zhigang Yao","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Yu Jiang","Zhigang Yao","Yi Tang"]
 publication_id: "P035"
 publication_url: "/publication/P035-ai-assisted-peak-efficiency-searching-of-cllc-resonant-converters-in-step-down-conditions#research-figure"
 paperurl: "https://doi.org/10.1109/IPEMC-ECCEAsia60879.2024.10567569"

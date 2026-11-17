@@ -8,7 +8,7 @@ date: 2023-10-16
 date_end: 2023-10-19
 location: "Singapore, Singapore"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Yu Yan Jiang","Yongbin Jiang","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Yu Jiang","Yongbin Jiang","Yi Tang"]
 publication_id: "P012"
 publication_url: "/publication/P012-a-zero-knowledge-ann-based-waveform-and-critical-parameter-calculator-for-resonant-converters#research-figure"
 paperurl: "https://doi.org/10.1109/IECON51785.2023.10312704"

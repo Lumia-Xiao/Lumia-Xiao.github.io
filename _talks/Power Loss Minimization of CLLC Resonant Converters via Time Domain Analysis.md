@@ -8,7 +8,7 @@ date: 2023-10-29
 date_end: 2023-11-02
 location: "Nashville, TN, USA"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Zhou He","Fei Deng","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Zhou He","Fei Deng","Yi Tang"]
 publication_id: "P016"
 publication_url: "/publication/P016-power-loss-minimization-of-cllc-resonant-converters-via-time-domain-analysis#research-figure"
 paperurl: "https://doi.org/10.1109/ECCE53617.2023.10362154"

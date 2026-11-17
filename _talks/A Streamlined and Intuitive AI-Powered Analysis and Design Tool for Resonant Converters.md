@@ -8,7 +8,7 @@ date: 2024-05-17
 date_end: 2024-05-20
 location: "Chengdu, China"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Yu Yan Jiang","Chang Wang","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Yu Jiang","Chang Wang","Yi Tang"]
 publication_id: "P034"
 publication_url: "/publication/P034-a-streamlined-and-intuitive-ai-powered-analysis-and-design-tool-for-resonant-converters#research-figure"
 paperurl: "https://doi.org/10.1109/IPEMC-ECCEAsia60879.2024.10567061"

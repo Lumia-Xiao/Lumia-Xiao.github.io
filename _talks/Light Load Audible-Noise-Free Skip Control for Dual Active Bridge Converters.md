@@ -8,7 +8,7 @@ date: 2025-07-21
 date_end: 2025-07-24
 location: "Penang, Malaysia"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Zhigang Yao","Yu Zeng","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Zhigang Yao","Yu Zeng","Yi Tang"]
 publication_id: "P057"
 publication_url: "/publication/P057-light-load-audible-noise-free-skip-control-for-dual-active-bridge-converters#research-figure"
 paperurl: "https://doi.org/10.1109/PEDS63958.2025.11144783"

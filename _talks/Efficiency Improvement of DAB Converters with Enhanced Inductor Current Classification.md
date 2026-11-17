@@ -8,7 +8,7 @@ date: 2023-10-29
 date_end: 2023-11-02
 location: "Nashville, TN, USA"
 first_author: "Ziheng Xiao"
-authors: ["Ziheng Xiao","Lei Zhang","Zhixing He","Yi Ke Tang"]
+authors: ["Ziheng Xiao","Lei Zhang","Zhixing He","Yi Tang"]
 publication_id: "P014"
 publication_url: "/publication/P014-efficiency-improvement-of-dab-converters-with-enhanced-inductor-current-classification#research-figure"
 paperurl: "https://doi.org/10.1109/ECCE53617.2023.10362300"
