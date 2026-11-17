@@ -11,10 +11,11 @@ classes:
 
 {% include base_path %}
 
-更新于 2026 年 9 月 7 日。
+网页更新于 2026 年 11 月 17 日；下载版 CV 更新于 2026 年 11 月 15 日。
 
 [下载一页英文简历]({{ base_path }}/files/CV_XiaoZiheng_1page.pdf){: .btn .btn--primary }
 [下载完整英文简历]({{ base_path }}/files/CV_XiaoZiheng_full.pdf){: .btn .btn--inverse }
+[下载完整中文简历]({{ base_path }}/files/CV_XiaoZiheng_full_zh.pdf){: .btn .btn--inverse }
 
 ## 专业信息
 
@@ -47,12 +48,12 @@ classes:
 
 | 年份 | 项目 | 直接经费 |
 |---|---|---:|
-| 2026-2030 | 面向规模化与产业协同的先进流体储能效率提升创新项目（IAF-ICP），新加坡 | 1,650 万新元 |
+| 2026-2030 | 面向规模化与产业协同的高效先进液流储能创新项目（IAF-ICP），新加坡 | 1,650 万新元 |
 | 2024-2027 | 基于物理信息机器学习的无线电能传输：推动交通电气化与智能系统发展（R24I6IR134），新加坡科技研究局（A*STAR） | 35 万新元 |
 | 2024-2027 | 基于迁移学习精确损耗建模的无线电能传输效率优化（RG73/24），新加坡教育部（MOE） | 16 万新元 |
-| 2021-2025 | 面向智能家居与智能电网的先进能源管理与数据融合，新加坡光宝科技有限公司 | 500 万新元 |
+| 2021-2025 | 面向智能家居与智能电网的先进能源管理和数据融合，新加坡光宝科技有限公司 | 500 万新元 |
 | 2019-2021 | 国家自然科学基金项目 51807057 | 24 万元人民币 |
-| 2019-2021 | 湖南省青年基金项目 2019JJ50038 | 5 万元人民币 |
+| 2019-2021 | 湖南省自然科学基金青年项目 2019JJ50038 | 5 万元人民币 |
 | 2018-2023 | 麦格米特校企合作项目 | 120 万元人民币 |
 | 2018-2020 | 湖南省科技创新计划项目 2017XK2104 | 500 万元人民币 |
 
@@ -60,13 +61,15 @@ classes:
 
 | 数据库 | 排除自引 | 包含自引 | H 指数 |
 |---|---:|---:|---:|
-| Scopus | - | 632 | 15 |
-| Web of Science（SCI） | 357 | 467 | 13 |
-| Google Scholar | - | 711 | 16 |
+| Scopus | - | 660 | 16 |
+| Web of Science（SCI） | 373 | 483 | 13 |
+| Google Scholar | - | 751 | 17 |
 
-*引用数据统计于 2026 年 9 月 7 日。*
+*引用数据统计于 2026 年 10 月 10 日。*
 
 ## 论文概况
+
+以下作者身份分类统计沿用下载版 CV（2026 年 11 月 15 日版本）；本站论文列表则保留此前根据 PDF 核实的 {{ site.publications | size }} 篇记录。
 
 ### 期刊论文
 
@@ -85,20 +88,25 @@ classes:
 
 ## 申请专利
 
-1. A. Luo、**Z. Xiao** 等，*开关电容谐振倍压整流变换器及其控制方法与控制系统*，WO2023005270A1。
-2. Z. He、**Z. Xiao** 等，*自动均压开关网络、直流变换器、控制系统及控制方法*，ZL202011485672.8。
-3. A. Luo、**Z. Xiao** 等，*开关电容谐振倍压整流变换器及其控制方法和控制系统*，ZL202110852407.7。
-4. R. Guan、A. Luo、…、**Z. Xiao** 等，*基于两级变换结构的模块化组合式中压直流变换器及控制方法*，L201910868861.4。
-5. A. Luo、**Z. Xiao** 等，*输入串联、多端口输出谐振直流变换器及其控制方法*，ZL201811235162.8。
-6. Z. He、**Z. Xiao** 等，*输入串联结构的均压电容调节器及其控制方法*，ZL202110849483.2。
-7. Z. He、**Z. Xiao** 等，*一种 DC-DC 变换系统及其控制方法*，ZL202110842999.4。
-8. Z. He、B. Zhou、…、**Z. Xiao** 等，*海底直流变换器及其控制方法*，ZL202010499215.8。
-9. A. Luo、Z. He、…、**Z. Xiao** 等，*一种基于功率模块的高可靠大功率中高压直流电源*，ZL202010499215.8。
+1. F. Deng, Y. Tang, L. Zhang, **Z. Xiao**, Z. Yao, J. Yang, S.-M. Chen and Y. C. C. Wong, *分布式发电单元、电气微电网系统及电气微电网系统中的均流控制方法*. [US20260149285A1](https://patents.google.com/patent/US20260149285A1/en), 2026.
+2. Z. Yao, Y. Tang, **Z. Xiao**, L. Zhang, F. Deng, J. Yang, S.-M. Chen and Y. C. C. Wong, *多电平 LLC 谐振变换器的电容电压平衡*. [US20260149370A1](https://patents.google.com/patent/US20260149370A1/en), 2026.
+3. **Z. Xiao**, Y. Tang, L. Zhang, F. Deng, Z. Yao, J. Yang, S.-M. Chen and Y. C. C. Wong, *采用软变形技术扩展 CLLC 谐振变换器的电压增益范围*. [US20260149369A1](https://patents.google.com/patent/US20260149369A1/en), 2026.
+4. A. Luo、**Z. Xiao** 等，*开关电容谐振倍压整流变换器及其控制方法与控制系统*，WO2023005270A1。
+5. Z. He、**Z. Xiao** 等，*自动均压开关网络、直流变换器、控制系统及控制方法*，ZL202011485672.8。
+6. A. Luo、**Z. Xiao** 等，*开关电容谐振倍压整流变换器及其控制方法和控制系统*，ZL202110852407.7。
+7. R. Guan、A. Luo、…、**Z. Xiao** 等，*基于两级变换结构的模块化组合式中压直流变换器及控制方法*，L201910868861.4。
+8. A. Luo、**Z. Xiao** 等，*输入串联多端口输出谐振直流变换器及其控制方法*，ZL201811235162.8。
+9. Z. He、**Z. Xiao** 等，*用于输入串联结构的均压电容调节器及其控制方法*，ZL202110849483.2。
+10. Z. He、**Z. Xiao** 等，*一种直流变换系统及其控制方法*，ZL202110842999.4。
+11. Z. He、B. Zhou、…、**Z. Xiao** 等，*水下直流变换器及控制方法*，ZL202010499215.8。
+12. A. Luo、Z. He、…、**Z. Xiao** 等，*高可靠大功率箱式中高压直流电源*，ZL202010499215.8。
 
 ## 荣誉与学术服务
 
 | 年份 | 荣誉或学术服务 |
 |---|---|
+| 2026 | **2026 年 IEEE PES 亚太电力与能源工程会议（APPEEC）最佳论文奖** |
+| 2026 | 2026 年第 11 届电力电子系统与应用国际会议（PESA）分会场主席，新加坡 |
 | 2025 | *Electronics* 期刊“Power Converters and Multilevel Converters”专刊客座编辑 |
 | 2025 | *Energies* 期刊“Control and Optimization of Power Converters”专刊客座编辑 |
 | 2025 | IEEE 亚太交通电气化会议暨博览会（ITEC-AP）技术程序委员会委员 |
@@ -128,7 +136,8 @@ classes:
 
 ## 本站收录论文
 
-<ul>{% for post in site.publications reversed %}
+{% assign publications_by_year = site.publications | sort: "publication_year" | reverse %}
+<ul>{% for post in publications_by_year %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 

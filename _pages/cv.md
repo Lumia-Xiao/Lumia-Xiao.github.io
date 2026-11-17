@@ -13,10 +13,11 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated September 7, 2026.
+Web CV updated November 17, 2026; downloadable CVs updated November 15, 2026.
 
 [Download One-Page CV]({{ base_path }}/files/CV_XiaoZiheng_1page.pdf){: .btn .btn--primary }
 [Download Full CV]({{ base_path }}/files/CV_XiaoZiheng_full.pdf){: .btn .btn--inverse }
+[Download Full CV (Chinese)]({{ base_path }}/files/CV_XiaoZiheng_full_zh.pdf){: .btn .btn--inverse }
 
 ## Professional Information
 
@@ -62,13 +63,15 @@ Last updated September 7, 2026.
 
 | Database | Without Self-Citations | With Self-Citations | H-index |
 |---|---:|---:|---:|
-| Scopus | - | 632 | 15 |
-| Web of Science (SCI) | 357 | 467 | 13 |
-| Google Scholar | - | 711 | 16 |
+| Scopus | - | 660 | 16 |
+| Web of Science (SCI) | 373 | 483 | 13 |
+| Google Scholar | - | 751 | 17 |
 
-*Citation metrics accessed on September 7, 2026.*
+*Citation metrics accessed on October 10, 2026.*
 
 ## Publication Summary
+
+The authorship breakdown below follows the downloadable CV (version November 15, 2026); the site publication list retains all {{ site.publications | size }} previously verified PDF records.
 
 ### Journal Publications
 
@@ -87,20 +90,25 @@ Last updated September 7, 2026.
 
 ## Patents Filed
 
-1. A. Luo, **Z. Xiao** et al., *Switched Capacitor Resonant Voltage-Multiplying Rectifier Converter, and a Control Method and a Control System Thereof*. WO2023005270A1.
-2. Z. He, **Z. Xiao** et al., *Automatic Voltage Balance Switch Network, DC Converter, Control System and Control Method*. ZL202011485672.8.
-3. A. Luo, **Z. Xiao** et al., *Switched Capacitor Resonance Voltage Doubler Rectifier Converter and Its Control Method and Control System*. ZL202110852407.7.
-4. R. Guan, A. Luo, ... **Z. Xiao** et al., *Modular Combined Medium-Voltage DC Converter and Control Method Based on Two-Stage Conversion Structure*. L201910868861.4.
-5. A. Luo, **Z. Xiao** et al., *Resonant DC Converter with Series Input and Multi-Port Output and Its Control Method*. ZL201811235162.8.
-6. Z. He, **Z. Xiao** et al., *Voltage Equalizing Capacitor Regulator for Input Series Structure and Its Control Method*. ZL202110849483.2.
-7. Z. He, **Z. Xiao** et al., *A DC-DC Conversion System and Its Control Method*. ZL202110842999.4.
-8. Z. He, B. Zhou, ... **Z. Xiao** et al., *Submarine DC Converter and Control Method*. ZL202010499215.8.
-9. A. Luo, Z. He, ... **Z. Xiao** et al., *A High-Reliability and High-Power Case-Based Medium and High Voltage DC Power Supply*. ZL202010499215.8.
+1. F. Deng, Y. Tang, L. Zhang, **Z. Xiao**, Z. Yao, J. Yang, S.-M. Chen and Y. C. C. Wong, *Distributed generation unit, electrical microgrid system, and method of current-sharing control in electrical microgrid system*. [US20260149285A1](https://patents.google.com/patent/US20260149285A1/en), 2026.
+2. Z. Yao, Y. Tang, **Z. Xiao**, L. Zhang, F. Deng, J. Yang, S.-M. Chen and Y. C. C. Wong, *Capacitor voltage balancing for multi-level LLC resonant converter*. [US20260149370A1](https://patents.google.com/patent/US20260149370A1/en), 2026.
+3. **Z. Xiao**, Y. Tang, L. Zhang, F. Deng, Z. Yao, J. Yang, S.-M. Chen and Y. C. C. Wong, *Expanding voltage gain range of CLLC resonant converters via soft-morphing technique*. [US20260149369A1](https://patents.google.com/patent/US20260149369A1/en), 2026.
+4. A. Luo, **Z. Xiao** et al., *Switched Capacitor Resonant Voltage-Multiplying Rectifier Converter, and a Control Method and a Control System Thereof*. WO2023005270A1.
+5. Z. He, **Z. Xiao** et al., *Automatic Voltage Balance Switch Network, DC Converter, Control System and Control Method*. ZL202011485672.8.
+6. A. Luo, **Z. Xiao** et al., *Switched Capacitor Resonance Voltage Doubler Rectifier Converter and Its Control Method and Control System*. ZL202110852407.7.
+7. R. Guan, A. Luo, ... **Z. Xiao** et al., *Modular Combined Medium-Voltage DC Converter and Control Method Based on Two-Stage Conversion Structure*. L201910868861.4.
+8. A. Luo, **Z. Xiao** et al., *Resonant DC Converter with Series Input and Multi-Port Output and Its Control Method*. ZL201811235162.8.
+9. Z. He, **Z. Xiao** et al., *Voltage Equalizing Capacitor Regulator for Input Series Structure and Its Control Method*. ZL202110849483.2.
+10. Z. He, **Z. Xiao** et al., *A DC-DC Conversion System and Its Control Method*. ZL202110842999.4.
+11. Z. He, B. Zhou, ... **Z. Xiao** et al., *Submarine DC Converter and Control Method*. ZL202010499215.8.
+12. A. Luo, Z. He, ... **Z. Xiao** et al., *A High-Reliability and High-Power Case-Based Medium and High Voltage DC Power Supply*. ZL202010499215.8.
 
 ## Awards and Academic Service
 
 | Year | Award or Service |
 |---|---|
+| 2026 | **Best Paper Award, 2026 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)** |
+| 2026 | Session Chair, 2026 11th International Conference on Power Electronics Systems and Applications (PESA), Singapore |
 | 2025 | Special Issue Guest Editor for *Electronics*, "Power Converters and Multilevel Converters" |
 | 2025 | Special Issue Guest Editor for *Energies*, "Control and Optimization of Power Converters" |
 | 2025 | Technical Program Committee, IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP) |
@@ -130,7 +138,8 @@ Thirty-five students mentored or co-mentored: 12 M.Sc. theses, 9 EE6008 projects
 
 ## Publications Listed on This Site
 
-<ul>{% for post in site.publications reversed %}
+{% assign publications_by_year = site.publications | sort: "publication_year" | reverse %}
+<ul>{% for post in publications_by_year %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 

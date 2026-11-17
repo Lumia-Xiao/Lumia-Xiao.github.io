@@ -7,18 +7,20 @@ translation_key: home
 classes:
   - about-home
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-- Hello, I’m Xiao Ziheng (肖子衡)! You can download my [full CV, updated September 7, 2026](/files/CV_XiaoZiheng_full.pdf) or view the [web version](/cv/).
-- I received the B.S. degree in electrical engineering and automation and Ph.D. degree (supervised by Professor [An Luo 罗安](https://eeit.hnu.edu.cn/info/1322/4500.htm) , member of Chinese engineering academy) in electrical engineering from the College of Electrical and Information Engineering, Hunan University, Changsha, China, in 2017 and 2022, respectively. 
+- Hello, I’m Xiao Ziheng (肖子衡)! You can download my [full CV, updated November 15, 2026](/files/CV_XiaoZiheng_full.pdf) or view the [web version](/cv/).
+- I received my B.S. degree in Electrical Engineering and Automation in 2017 and my Ph.D. in Electrical Engineering in 2022 from the College of Electrical and Information Engineering, Hunan University, Changsha, China. My doctoral supervisor was Professor [An Luo 罗安](https://eeit.hnu.edu.cn/info/1322/4500.htm), an Academician of the Chinese Academy of Engineering.
 - From 2022 to 2026, I was a Postdoctoral Research Fellow with the Energy Research Institute at Nanyang Technological University, Singapore. Since 2026, I have been a Senior Research Fellow in the School of Electrical and Electronic Engineering, supervised by Professor [Tang Yi](https://ntu-leap.github.io/), Associate Chair (Graduate Studies) and Director of the Laboratory for Electrification & Advanced Power Conversion. Since 2023, I have also served as a part-time lecturer in the same school.
-- My main research interests include the medium voltage dc system, dual active bridge converters, resonant converters, energy router in renewable energy systems, and the application of artificial intelligence in power electronics. 
- 
+- My main research interests include the medium voltage dc system, dual active bridge converters, resonant converters, energy router in renewable energy systems, and the application of artificial intelligence in power electronics.
+
 | Year | Achievement                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------------------|
+| 2026 | **Best Paper Award, 2026 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)** |
+| 2026 | Session Chair, 2026 11th International Conference on Power Electronics Systems and Applications (PESA), Singapore |
 | 2025 | Special Issue Guest Editor for *Electronics* Journal "Power Converters and Multilevel Converters"                        |
 | 2025 | Special Issue Guest Editor for *Energies* Journal "Control and Optimization of Power Converters"                         |
 | 2025 | Technical Program Committee for 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP)   |
